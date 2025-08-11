@@ -1,0 +1,538 @@
+﻿FID,Campground,GISID,TYPE,SUBTYPE,UNITNBR,DETAIL,UNITNAME,GlobalID,WHAT3WORD_ADDRESS,x,y
+6802,Walk-in Campsites,GIS0006399,Developed Family Camp Area,9,314,Walk-in  Campsites,Brannan Island SRA,58d21357-bd1b-4e13-b605-0083f6eb7f29,,-121.6893209,38.11482938
+6803,North Grove Campground,GIS0006400,Developed Family Camp Area,9,306,North Grove Campground,Calaveras Big Trees SP,ec975511-8e67-47b7-8fd1-3c152625f757,,-120.3078975,38.27616402
+6804,Group Campground,GIS0006401,Developed Group Camp Area,9,306,,Calaveras Big Trees SP,1261ebd5-95e3-4dd3-88dc-b5865b9cb89d,,-120.313446,38.28052083
+6805,Beaver Creek Environmental Camp Area,GIS0006402,Environmental Camp Area,9,306,Beaver Creek Environmental Camp Area,Calaveras Big Trees SP,9c47cb06-811d-42d6-8b9e-ff16878df038,,-120.2622114,38.24842929
+6806,Sugar Pine Environmental Camp,GIS0006403,Environmental Camp Area,9,306,Dardanelles Environmental Camp Area,Calaveras Big Trees SP,4fa1b49c-ca43-453a-a282-42bd0ceb6f22,,-120.3018488,38.27429557
+6807,Memorial Parkway Environmental Camp Area,GIS0006404,Environmental Camp Area,9,306,Memorial Parkway Environmental Camp Area,Calaveras Big Trees SP,079ce0d3-aa0b-4642-8961-de0329ea5d7f,,-120.2932284,38.28089012
+6808,Cole Creek Campground,GIS0006405,Developed Family Camp Area,9,218,"Cole Creek Campground, sites 1-26",Clear Lake SP,fcf6b363-f7f0-4f9f-8747-e12c27725dba,,-122.8137814,39.01315937
+6809,Group Camp B,GIS0006406,Developed Group Camp Area,9,218,Group Camps B - Accessible feature,Clear Lake SP,191ba8b6-a736-41f6-b531-34829cabedfd,,-122.812776,39.01929351
+6810,Doheny Campground,GIS0006407,Developed Family Camp Area,9,610,Doheny Campground,Doheny SB,8cca37bf-d6a1-4c1f-bf89-81dba984a29e,,-117.6804034,33.462203
+6811,Upper Eagle Point Campground,GIS0006408,Developed Family Camp Area,9,313,Sites 1-34 of 100,Emerald Bay SP,99c8b9b7-0921-43e7-b31b-c18bb8f5b7e2,,-120.0824805,38.95499243
+6812,"Sunrise Sites 7,8,9",GIS0141381,Environmental Camp Area,9,231,"East Garrison-Sunrise Sites 7,8,9",Angel Island SP,84bc0c34-bbcf-4713-be59-b12f030d4492,,-122.425297,37.86164398
+6813,"Eastbay Sites 1, 2, 3",GIS0006389,Environmental Camp Area,9,231,"Eastbay Environmental CG-Sites 1, 2, 3",Angel Island SP,2a1b562c-65e0-47a9-9261-5e85efb42fb2,,-122.4251356,37.86520118
+6814,Kayak Camp (Group),GIS0006390,Environmental Camp Area,9,231,Kayak Camp (Group),Angel Island SP,33b39b3c-ecf2-438f-bba7-5098891b5256,,-122.4405259,37.86247056
+6815,"Ridge Sites 4 ,5, 6",GIS0006391,Environmental Camp Area,9,231,Ridge Site #4,Angel Island SP,9cc4fdcf-9660-48e1-b2dc-13ab69168c22,,-122.4391299,37.85802244
+6816,Group Campground,GIS0006410,Developed Group Camp Area,9,303,,D.L. Bliss SP,051e0fe2-07ff-4447-9045-23be3410ebb6,,-120.1052121,38.99349282
+6817,San Mateo Campground,GIS0006413,Developed Family Camp Area,9,663,"San Mateo Campground, 67 with hookups",San Onofre SB,0b7a14d0-e2ad-4c89-b126-d07386f68b0c,,-117.5843097,33.40718612
+6818,Basalt Campground,GIS0006415,Developed Family Camp Area,9,333,Basalt Campground,San Luis Reservoir SRA,abeb9335-1bbb-46a2-9bd1-8711e69d9ab8,,-121.0647207,37.0280254
+6819,San Clemente Campground,GIS0006416,Developed Family Camp Area,9,611,San Clemente Campground: RV with 72 hookup sites,San Clemente SB,17b2151f-27db-4b6f-abfd-3e0b1d83ef3a,,-117.6011137,33.40460216
+6820,Gerstle Cove Campground,GIS0006419,Developed Family Camp Area,9,248,Gerstle Cove Campground,Salt Point SP,0db2f69e-20fe-4042-9962-7f49fd0f60e2,,-123.3248053,38.56887265
+6821,Woodside Campground,GIS0006420,Developed Family Camp Area,9,248,"fire-ring, picnic table, food locker, water",Salt Point SP,71ab4b77-2805-451a-9d2b-2009be7d3ff4,,-123.312392,38.5656779
+6822,Russian Gulch Campground,GIS0006421,Developed Family Camp Area,9,141,Russian Gulch Campground,Russian Gulch SP,da69bb54-8a35-4cfa-8de9-16325c1ddad6,,-123.7974277,39.33123256
+6823,Madrone Campground,GIS0006422,Developed Family Camp Area,9,116,Madrone Campground,Richardson Grove SP,cedc3691-746d-4521-a0ec-3d9a47436697,,-123.7945238,40.01894666
+6824,Oak Flat Campground,GIS0006423,Developed Family Camp Area,9,116,Oak Flat Campground,Richardson Grove SP,49c5c1d7-c089-41e8-a25c-b3cb4c241c2b,,-123.7880671,40.01550302
+6825,Upper Jamison Creek Campground,GIS0006426,Developed Family Camp Area,9,321,Upper Jamison Creek Campground,Plumas-Eureka SP,3b340a94-734d-426e-9bc9-4eb4c14200a0,,-120.707217,39.74143013
+6826,North Beach Campground,GIS0006427,Developed Family Camp Area,9,446,North Beach Campground,Pismo SB,770c2b99-b19d-465d-98b9-f8d80f38fb7b,,-120.6349649,35.13080938
+6827,Oceano Campground,GIS0006428,Developed Family Camp Area,9,446,Oceano Campground,Pismo SB,c3ccc161-3679-48ee-b709-19936f4b68d8,,-120.6272801,35.1073847
+6828,Pfeiffer Big Sur Campground,GIS0006429,Developed Family Camp Area,9,448,Pfeiffer Big Sur Campground,Pfeiffer Big Sur SP,033fd68e-5ce8-4db1-b0ff-aa9cb43412ba,,-121.7795837,36.24857252
+6829,Agate Beach,GIS0006430,Developed Family Camp Area,9,106,"Loop 86-124, ADA Sites 91,92,94",Sue-meg SP,c2d31794-bcd4-4963-9aed-17778f325be7,,-124.1510283,41.13923374
+6830,Doane Valley Campground,GIS0006431,Developed Family Camp Area,9,617,Doane Valley Campground,Palomar Mountain SP,3f8173f9-a829-477b-837a-0d8e4563891a,,-116.9015359,33.34335978
+6831,Morro Bay Campground,GIS0006435,Developed Family Camp Area,9,443,Morro Bay Campground,Morro Bay SP,95e86ffb-2165-4363-9120-1e9af360021e,,-120.8389379,35.34716919
+6832,near rr 7 North Grove CG,GIS0006436,Hike/Bike Camp Area,9,306,near rr 7 North Grove CG,Calaveras Big Trees SP,7cb310dc-8b00-4f22-bce7-a094af47fb11,,-120.3065509,38.27524635
+6833,Grover Hot Springs Campground,GIS0006441,Developed Family Camp Area,9,322,Grover Hot Springs Campground,Grover Hot Springs SP,a0fff835-8d57-4ece-9124-c4c00dc3f0ac,,-119.8345586,38.69920922
+6834,Indian Grinding Rocks Campground,GIS0006442,Developed Family Camp Area,9,373,Indian Grinding Rocks Campground,Indian Grinding Rock SHP,7477c8ae-f43b-4625-99fd-2747963fbd06,,-120.6440414,38.42256151
+6835,U'macha'tam'ma' Environmental Living/Group Camp,GIS0006443,Environmental Camp Area,9,373,U'macha'tam'ma' Environmental Living/Group Camp,Indian Grinding Rock SHP,1f11937c-767b-4933-b3bd-e7c212973b7a,,-120.6432663,38.42768254
+6836,Jedediah Smith Redwoods Campground,GIS0006444,Developed Family Camp Area,9,102,Jedediah Smith Redwoods Campground,Jedediah Smith Redwoods SP,700916da-7a70-4571-9b50-bec7db3eab3a,,-124.0855476,41.79791747
+6837,Jedediah Smith Redwoods Group Camp,GIS0006445,Developed Group Camp Area,9,102,Jedediah Smith Redwoods Group Camp,Jedediah Smith Redwoods SP,e0f07a78-8b98-4833-9a00-7f1e2d1feca1,,-124.0878176,41.79590476
+6838,Jedediah Smith Redwoods Hike and Bike Camp Area,GIS0006446,Hike/Bike Camp Area,9,102,Jedediah Smith Redwoods Hike and Bike Camp Area,Jedediah Smith Redwoods SP,6cbe951e-35b3-4c02-88b3-e268175caa4f,,-124.0857475,41.80022148
+6839,North Shore - Small Group Camp,GIS0006447,Developed Group Camp Area,9,378,,Millerton Lake SRA,ae578fce-4ac8-454c-b129-e7864b66e5cf,,-119.6849651,37.02307292
+6840,North Shore CG - Horse Camp,GIS0006448,Horse Camp Area,9,378,,Millerton Lake SRA,7349a146-4169-4045-bde0-7d373f3f36ae,,-119.6679676,37.02245909
+6841,General Creek Campground,GIS0006449,Developed Family Camp Area,9,339,General Creek Campground,Ed Z'Berg Sugar Pine Point SP,4d461191-75da-4b77-8eed-72865cbde1a0,,-120.1212112,39.05823418
+6842,San Elijo Campground,GIS0006453,Developed Family Camp Area,9,654,San Elijo Campground,San Elijo SB,0f2faaa2-5e96-4204-838e-b038b330cb67,,-117.2844127,33.02109368
+6843,South Carlsbad Campground,GIS0006454,Developed Family Camp Area,9,652,South Carlsbad Campground,South Carlsbad SB,ef4d947c-ca92-4e8f-93e0-904274324df4,,-117.3186461,33.10160193
+6844,Joshua Tree Campground,GIS0006455,Developed Family Camp Area,9,543,Joshua Tree Campground,Saddleback Butte SP,fabf3ab2-4a70-4540-b42a-8a80a1471ad7,,-117.8252523,34.67680544
+6845,Hidden Springs Campground,GIS0006456,Developed Family Camp Area,9,119,Hidden Springs Campground,Humboldt Redwoods SP,2d110bff-351d-4481-8386-fb968539dfbd,,-123.8643822,40.27517934
+6846,Westport-Union SB Primitive Campground,GIS0006457,Primitive Family Camp Area,9,150,Several locales,Westport-Union Landing SB,8b93644c-8679-4b31-9dd7-7046ba6bf1a9,,-123.7907392,39.67527798
+6847,Lakeside Campground,GIS0006458,Developed Family Camp Area,9,302,Lakeside Campground,Tahoe SRA,20062fe8-3bce-4627-afe1-f9a11221888d,,-120.1355333,39.17480213
+6848,Hickey Campground,GIS0006463,Developed Family Camp Area,9,117,Hickey Campground,Standish-Hickey SRA,d8733724-1ac5-4083-904b-598472587eae,,-123.7290645,39.87735248
+6849,Bodega Dunes - Upper,GIS0006464,Developed Family Camp Area,9,209,Bodega Dunes Campground - 4 ADA sites total,Sonoma Coast SP,da74f7c1-ff0c-4ded-a6c5-0fa12d1fbc34,,-123.0551985,38.34116726
+6850,Wright's Beach Enroute Camping,GIS0006465,Enroute Camp Area,9,209,Wright's Beach Overflow Camping,Sonoma Coast SP,824ce4e8-de58-4aed-a3e9-6d17d1645ceb,,-123.0950557,38.39947013
+6851,Willow Creek Environmental Camp Area,GIS0006466,Environmental Camp Area,9,209,Willow Creek Environmental Camp Area - 2 ADA sites,Sonoma Coast SP,77aee5a7-25a6-43c7-b2c3-59ceafe5149e,,-123.0900247,38.44667229
+6852,Pomo Canyon Environmental Camp Area,GIS0006467,Environmental Camp Area,9,209,Pomo Canyon Environmental Camp Area - 1 ADA site,Sonoma Coast SP,b5b78d57-e5e4-4fe1-85fb-67e14e3b2508,,-123.0661119,38.42516799
+6853,Needle Rock Camp,GIS0006468,Primitive Family Camp Area,9,133,Needle Rock Barn,Sinkyone Wilderness SP,ae4a4059-2558-4f1a-9ac2-f8c9b3658595,,-123.964876,39.94315104
+6854,Usal Beach Campground,GIS0006469,Primitive Family Camp Area,9,133,Usal Beach Campground,Sinkyone Wilderness SP,aa791c41-6047-4a76-ae84-838204067220,,-123.8468754,39.83193646
+6855,Little Jackass Creek Camp,GIS0006470,Environmental Camp Area,9,133,Little Jackass Creek Camp,Sinkyone Wilderness SP,99191a34-defe-46cf-8026-234ae9f11d1e,,-123.8975354,39.86257196
+6856,Turlock Lake Campground,GIS0006460,Developed Family Camp Area,9,311,Turlock Lake Campground,Turlock Lake SRA,eb5fc8b1-7a38-4841-9697-e4635a8feed7,,-120.5812384,37.63063555
+6857,Woodson Bridge Campground,GIS0006461,Developed Family Camp Area,9,129,Woodson Bridge Campground,Woodson Bridge SRA,7f87cac3-c72f-42b2-a096-a1165dee664d,,-122.0862621,39.9133167
+6858,Bear Harbor Camp,GIS0006472,Environmental Camp Area,9,133,Bear Harbor Environmental Camp Area,Sinkyone Wilderness SP,baad5b5a-4045-4888-a695-7a55906166c1,,-123.9390318,39.9139007
+6859,Anderson Camp,GIS0006473,Environmental Camp Area,9,133,Anderson Camp,Sinkyone Wilderness SP,7a8dc803-d562-45ec-8eb8-4c067192e98d,,-123.8861545,39.85318779
+6860,Mesa Camprground,GIS0006474,Developed Family Camp Area,9,592,,Silverwood Lake SRA,d3871ec6-d0b6-4b19-b08f-5f742ac1ff36,,-117.3484411,34.28411543
+6861,Silver Strand Campground,GIS0006476,Developed Family Camp Area,9,614,RV Parking Lot Campground,Silver Strand SB,4aeba462-9986-4e98-87ef-c25c0b5d3b26,,-117.1426029,32.6354098
+6862,Enroute Camping,GIS0006480,Primitive Family Camp Area,9,441,Enroute Camping,Montaña de Oro SP,55e46888-c8ca-41ca-b011-f073e6935ffe,,-120.862142,35.30119887
+6863,Oceano Dunes Beach Camping,GIS0006484,Primitive Family Camp Area,9,264,Oceano Dunes Beach Camping,Oceano Dunes SVRA,3a1eae54-351f-4531-995b-08538c66ab8f,,-120.6292393,35.07565947
+6864,Portola Campground,GIS0006485,Developed Family Camp Area,9,405,Main Campground,Portola Redwoods SP,24d808dc-9b66-49e9-ae69-9460333f8880,,-122.2162783,37.25441503
+6865,Elk Prairie Campground,GIS0006486,Developed Family Camp Area,9,104,Elk Prairie Campground,Prairie Creek Redwoods SP,3dbf5a11-092b-4c7e-b299-4c18b962528d,,-124.0284462,41.35919053
+6866,Elk Prairie Hike and Bike Camp Area,GIS0006487,Hike/Bike Camp Area,9,104,Elk Prairie Hike and Bike Camp Area,Prairie Creek Redwoods SP,2b9add06-b3e7-4940-a732-7f5d96be9176,,-124.0296168,41.35794364
+6867,Gold Bluffs Environmental Camp,GIS0006488,Environmental Camp Area,9,104,Gold Bluffs Environmental Camp,Prairie Creek Redwoods SP,de324b8e-4d75-4b4a-bf8a-846c21c9dfb3,,-124.0677171,41.35509458
+6868,Miner's Ridge Trail Camp,GIS0006489,Primitive Family Camp Area,9,104,Walk-in camp,Prairie Creek Redwoods SP,4c3597cc-e48a-49f5-a48d-13fc3f833b20,,-124.0668696,41.38558705
+6869,Gold Bluffs Beach Campground,GIS0006490,Developed Family Camp Area,9,104,GOLD BLUFFS BEACH CAMPGROUND,Prairie Creek Redwoods SP,edb1ab1b-6295-44e5-a5f8-df4afd3194a7,,-124.0695678,41.38374057
+6870,Caswell Memorial Campground,GIS0006497,Developed Family Camp Area,9,316,Caswell Memorial Campground,Caswell Memorial SP,f8d8020a-92b7-45e4-aa96-57def310f0b1,,-121.1783034,37.70051576
+6871,Caswell Memorial Group Camp,GIS0006498,Developed Group Camp Area,9,316,Caswell Memorial Group Camp,Caswell Memorial SP,b9f2381d-09b7-4842-841d-f9125cbd89ed,,-121.179815,37.69950925
+6872,Rolling M Ranch Campground,GIS0006499,Developed Family Camp Area,9,508,,Chino Hills SP,57a7bb6f-1021-497c-8257-39fb7a6183d7,,-117.7083488,33.9236002
+6873,John L. Whitehead Jr. Campground,GIS0006500,Developed Family Camp Area,9,341,John L. Whitehead Jr. Campground,Colonel Allensworth SHP,0901b03c-b76d-4048-9f24-013ea6fa6c55,,-119.3925177,35.86605056
+6874,Colusa-Sacramento River Campground,GIS0006501,Developed Family Camp Area,9,140,Colusa-Sacramento River Campground,Colusa-Sacramento River SRA,69498c57-34b0-435c-9680-d3d794d1f8ae,,-122.015497,39.21800708
+6875,Colusa-Sacramento River Group Camp,GIS0006502,Developed Group Camp Area,9,140,Colusa-Sacramento River Group Camp,Colusa-Sacramento River SRA,0107d774-b4e3-4dd2-b9b9-7c0feebf371a,,-122.0153334,39.21839109
+6876,Colusa-Sacramento River Enroute Camping,GIS0006503,Enroute Camp Area,9,140,Colusa-Sacramento River Enroute Camping,Colusa-Sacramento River SRA,dae12052-4383-459e-bfad-641cf8799ddd,,-122.0157865,39.21892822
+6877,D. L. Bliss Hike and Bike,GIS0006504,Hike/Bike Camp Area,9,303,D. L. Bliss Hike and Bike,D.L. Bliss SP,2d916c4e-9f3b-47b2-abb4-0e6601b7cb57,,-120.1003652,38.98703832
+6878,Mill Creek Campground,GIS0006505,Developed Family Camp Area,9,103,Mill Creek Campground,Del Norte Coast Redwoods SP,f915f702-ed66-4933-89f5-4864329b20cf,,-124.0966538,41.70077045
+6879,,GIS0006506,Developed Group Camp Area,9,610,,Doheny SB,f75a269a-ea38-4c49-8be9-84b1b4e98999,,-117.6786262,33.46131247
+6880,,GIS0006507,Hike/Bike Camp Area,9,610,,Doheny SB,39e5d5ca-aa0c-4ff0-a68c-e302edefbf18,,-117.67992,33.46234173
+6881,"Donner Memorial Hike/Bike (sites 93,95)",GIS0006508,Hike/Bike Camp Area,9,301,"Donner Memorial Hike/Bike (sites 93,95)",Donner Memorial SP,2516da8c-525a-4185-a8df-c300a106a059,,-120.2336962,39.31996142
+6882,Borrego Palm Canyon Campground,GIS0006509,Developed Family Camp Area,9,622,Borrego Palm Canyon Hookups,Anza-Borrego Desert SP,fc9ff4aa-6c22-48b7-989d-53e96e304571,,-116.4080485,33.26942102
+6883,Borrego Palm Canyon Group Camp,GIS0006510,Developed Group Camp Area,9,622,Borrego Palm Canyon Group Camp,Anza-Borrego Desert SP,6472da7b-431d-44f0-a1bd-62a033106f1c,,-116.4153664,33.26787778
+6884,Vern Whitaker Horse Camp,GIS0006511,Horse Camp Area,9,622,,Anza-Borrego Desert SP,9dafc347-8fdf-45a7-a523-31b8b9666f3f,,-116.3991595,33.34896526
+6885,Tamarisk Grove Campground,GIS0006512,Developed Family Camp Area,9,622,Tamarisk Grove Campground,Anza-Borrego Desert SP,e1de29f5-897a-4a24-b4cf-459790ec0eea,,-116.375785,33.13799869
+6886,Anacapa Loop Group Camp,GIS0006493,Developed Group Camp Area,9,514,Sites 101 - 126,Carpinteria SB,59deb0e5-c239-475f-b24e-a20f2f5eaf92,,-119.5225076,34.39407964
+6887,Headquarters Campground,GIS0006529,Primitive Family Camp Area,9,432,Headquarters Campground,Henry W. Coe SP,d1fa7715-60dd-4c2e-80f2-ad725f622c63,,-121.5452409,37.18606318
+6888,Manzanita Point Group Camp,GIS0006530,Primitive Group Camp Area,9,432,Hike-in Group Camp,Henry W. Coe SP,98875487-0bc8-4a9c-8134-fc72e25ddc77,,-121.5006073,37.17464186
+6889,Poverty Flat Hike-in Group Camp,GIS0006531,Primitive Group Camp Area,9,432,Hike-in Group Camp,Henry W. Coe SP,64229060-ae11-4bc2-a902-750b52cf6dbe,,-121.4997313,37.18002316
+6890,"8 designated Horse Camps, location unknown",GIS0006532,Horse Camp Area,9,432,"8 designated Horse Camps, location unknown",Henry W. Coe SP,b307cd7c-7637-449b-9f06-78191a653467,,-121.5470443,37.18682963
+6891,Cuneo Creek Family Horse Camp,GIS0006533,Horse Camp Area,9,119,,Humboldt Redwoods SP,0febc18e-81b4-45ee-a2f6-61ea5c5671bc,,-124.0353128,40.33522838
+6892,Albee Creek Campground,GIS0006534,Developed Family Camp Area,9,119,Albee Creek Campground,Humboldt Redwoods SP,2cbcad11-ca96-4801-8905-2dde8a6d6714,,-124.0095665,40.35309301
+6893,Burlington Campground,GIS0006535,Developed Family Camp Area,9,119,Burlington Campground,Humboldt Redwoods SP,d0d4d990-2c52-4a00-b48c-1036657d2436,,-123.9091441,40.30914146
+6894,Burlington Campground Hike/Bike Camp,GIS0006536,Hike/Bike Camp Area,9,119,Burlington Campground Hike/Bike Camp,Humboldt Redwoods SP,969f3c56-2b53-4063-83a6-00b186a74a6a,,-123.9090583,40.30863135
+6895,Big Sycamore Canyon Campground,GIS0006537,Developed Family Camp Area,9,573,Big Sycamore Canyon Campground,Point Mugu SP,503f2171-7949-43ba-a72d-1ec2c810c5bd,,-119.0147331,34.07308705
+6896,Thornhill Broome Beach Campground,GIS0006538,Primitive Family Camp Area,9,573,Thornhill Broome Beach Campground,Point Mugu SP,92484e0c-dce5-44b4-a4ec-4d6fd8f099b4,,-119.0334274,34.08209271
+6897,Road Runner Campground,GIS0006539,Developed Family Camp Area,9,665,Road Runner CG; Sites 391 - 432,Lake Perris SRA,dbd2d4b0-1135-4c23-ac01-f35456089fa3,,-117.1775846,33.87686997
+6898,Bernasconi Group Camp,GIS0006540,Developed Group Camp Area,9,665,Bernasconi Group Camp,Lake Perris SRA,dbf605aa-99fd-41cd-a74e-ca0953aef8a2,,-117.1662028,33.84252086
+6899,Northside Group Camp,GIS0006541,Developed Group Camp Area,9,665,Northside Group Camp,Lake Perris SRA,79408916-797d-4760-bd52-c72c7d7e1e9e,,-117.1660214,33.87928002
+6900,Malibu Creek Campground,GIS0006542,Developed Family Camp Area,9,537,Malibu Creek Campground,Malibu Creek SP,4150e442-82ec-4627-a234-a422b84acdb0,,-118.7128544,34.09419608
+6901,Malibu Creek Group Camp,GIS0006543,Developed Group Camp Area,9,537,Malibu Creek Group Camp,Malibu Creek SP,653607c0-fd2b-47ee-960f-788bedb3c1a5,,-118.7129496,34.09144104
+6902,Cleone Campground Hike/Bike Camp,GIS0006544,Hike/Bike Camp Area,9,146,Cleone Campground Hike/Bike Camp,MacKerricher SP,cdebc283-a915-49db-9d0a-9f9416c16cf2,,-123.7898643,39.48949538
+6903,Reef Campground,GIS0006519,Developed Family Camp Area,9,207,"Flush Toilets,No showers",Fort Ross SHP,d56412ac-82da-49a2-b017-8ad2c4fa118d,,-123.2344193,38.51139265
+6904,Fort Tejon Group Camp,GIS0006520,Developed Group Camp Area,9,351,,Fort Tejon SHP,29c5fa03-59f8-4389-959a-d83a177ec2d9,,-118.8974538,34.87160202
+6905,Grizzly Creek Group Camp - location unknown,GIS0006521,Developed Group Camp Area,9,110,Grizzly Creek Group Camp - location unknown,Grizzly Creek Redwoods SP,de584cc1-3274-4338-98d4-4fbe2e96aeee,,-123.9102869,40.48630942
+6906,Grizzly Creek Campground - location unknown,GIS0006522,Developed Family Camp Area,9,110,Grizzly Creek Campground - location unknown,Grizzly Creek Redwoods SP,b5530de9-23be-487e-a6f4-cadb1441a764,,-123.9029169,40.48580196
+6907,Grizzly Creek Env Camp - location unknown,GIS0006523,Environmental Camp Area,9,110,Grizzly Creek Env Camp - location unknown,Grizzly Creek Redwoods SP,7534b6ef-e802-481a-947c-cb0fecdf8cfb,,-123.9091508,40.48687717
+6908,Francis Beach Hike and Bike,GIS0006524,Hike/Bike Camp Area,9,277,,Half Moon Bay SB,0f7d33fd-9cc9-431a-859e-82b4ccdf8a34,,-122.446089,37.46966126
+6909,Half Moon Bay Enroute Camping,GIS0006526,Enroute Camp Area,9,277,,Half Moon Bay SB,882694b5-356a-4141-b46b-352bd2bb5039,,-122.4451752,37.46672955
+6910,Lake Perris Horse Camp,GIS0006546,Horse Camp Area,9,665,,Lake Perris SRA,5bca23cd-f1fb-4ea5-952f-9be0fe2800b5,,-117.1806378,33.87798865
+6911,Quail Campground,GIS0006547,Hike/Bike Camp Area,9,665,Hike/Bike; 2 loops: E: Sites 1 - 44; W: 45 - 88,Lake Perris SRA,549f9cda-39ce-4f6f-8dae-d3904fcf8fa5,,-117.1797316,33.87369137
+6912,"Beach, Lower Creek and Redwood Loops",GIS0006548,Developed Family Camp Area,9,461,"Beach, Lower Creek and Redwood Loops",Limekiln SP,10b3eac8-4ba3-4bf4-ba4e-e9c1ce6b5183,,-121.5183811,36.01018861
+6913,Andrew Molera Trail Camp,GIS0006549,Primitive Family Camp Area,9,491,Andrew Molera Trail Camp,Andrew Molera SP,bbefe046-acc2-47ca-87b3-7b7da72523cc,,-121.845086,36.28658965
+6914,Barbecue Terrace Horse Camp,GIS0006552,Horse Camp Area,9,203,,Mount Diablo SP,91fde242-4de8-4119-b1b8-e50c41003726,,-121.9357409,37.86288514
+6915,Wildcat Group Camp,GIS0006553,Primitive Group Camp Area,9,203,Wildcat Group Camp,Mount Diablo SP,b572b87c-d5af-472a-aee2-9374a0ad5c62,,-121.9333447,37.86303796
+6916,Old Pioneer Horse Camp,GIS0006554,Horse Camp Area,9,203,,Mount Diablo SP,367ebbe6-74a5-4c2b-8318-91829dac4888,,-121.9235276,37.87316223
+6917,Boundary Group,GIS0006555,Primitive Group Camp Area,9,203,Boundary Group,Mount Diablo SP,80151349-2fe5-4392-aae4-413788e4a1b9,,-121.9357952,37.86754471
+6918,Stagecoach Group Camp,GIS0006556,Primitive Group Camp Area,9,203,Stagecoach Group Camp,Mount Diablo SP,25af4af1-d2d0-4986-bfb1-2af3b769dd5a,,-121.9340665,37.86681097
+6919,Juniper CG,GIS0006557,Developed Family Camp Area,9,203,Juniper CG,Mount Diablo SP,98967f4b-2958-49e8-a3ee-0b1d42a83833,,-121.9323681,37.87768474
+6920,Live Oak CG,GIS0006558,Developed Family Camp Area,9,203,Live Oak CG,Mount Diablo SP,a4d16da9-a713-4000-8d8f-9d17a0081595,,-121.9372287,37.85093943
+6921,Junction CG,GIS0006559,Developed Family Camp Area,9,203,Junction CG,Mount Diablo SP,ff4c5289-3664-4abf-8560-14c6fa49cb57,,-121.9330945,37.86616938
+6922,Idyllwild Campground,GIS0006565,Developed Family Camp Area,9,616,Idyllwild Campground,Mount San Jacinto SP,209a93ed-7aee-4a06-975f-29e78391c9cb,,-116.7152612,33.74891453
+6923,Stone Creek Campground,GIS0006566,Developed Family Camp Area,9,616,Stone Creek Campground,Mount San Jacinto SP,4d832f7d-6bd1-45e2-91eb-268eb130da98,,-116.7475865,33.78532017
+6924,Strawberry Junction,GIS0006567,Primitive Family Camp Area,9,616,Strawberry Junction,Mount San Jacinto SP,b0c6ae6e-0378-45ba-918d-299f936df54e,,-116.7026518,33.78261643
+6925,Little Round Valley,GIS0006568,Undefined,9,616,Wilderness hike-in camp,Mount San Jacinto SP,6369fbe3-aa0b-4839-b926-f698818c9f44,,-116.687665,33.81168053
+6926,Tamarack Valley,GIS0006569,Undefined,9,616,Wilderness hike-in camp,Mount San Jacinto SP,8e135afe-d7e0-4ab4-93cc-cf66e8788585,,-116.6610982,33.80959734
+6927,Round Valley,GIS0006570,Undefined,9,616,Wilderness hike-in camp,Mount San Jacinto SP,2d341e72-e2bf-439f-ae4b-212d589f6f5b,,-116.6627163,33.80492741
+6928,McConnell Group Camp B,GIS0006562,Developed Group Camp Area,9,310,McConnell Group Camp B,McConnell SRA,9b58ec98-5b44-4e00-a7bf-bd2c91b1b50b,,-120.7115086,37.41588837
+6929,McConnell Group Camp A,GIS0006563,Developed Group Camp Area,9,310,McConnell Group Camp A,McConnell SRA,d3a00b3e-9759-47c7-8c60-63c219ad3c86,,-120.7114838,37.41549503
+6930,Alder Trail Camp,GIS0006574,Primitive Family Camp Area,9,406,Alder Trail Camp,Big Basin Redwoods SP,e52e1d4b-f67c-4f4d-8321-5e9cadf0a9e7,,-122.2692299,37.11391775
+6931,Twin Redwoods Trail Camp,GIS0006575,Primitive Family Camp Area,9,406,Twin Redwoods Trail Camp,Big Basin Redwoods SP,7209bc10-d71b-45ea-a56f-af6ea85b1421,,-122.2683409,37.11636407
+6932,Blooms Creek Campground,GIS0006578,Developed Family Camp Area,9,406,Blooms Creek Campground,Big Basin Redwoods SP,103ce22d-5129-44d1-9bd3-886fb50b8cc4,,-122.2187934,37.16776871
+6933,Jay Campground,GIS0006579,Primitive Family Camp Area,9,406,Jay Campground,Big Basin Redwoods SP,e370750a-7ed6-42c5-bf3a-35f215734cc9,,-122.2204416,37.16890815
+6934,Bullfrog Pond Campground,GIS0006591,Developed Family Camp Area,9,245,No reservations,Austin Creek SRA,86c583ea-23f0-4088-879d-4b8debb8eb2b,,-123.0102262,38.56500762
+6935,Tom King Camp,GIS0006592,Environmental Camp Area,9,245,Back Country Primitive Campsite,Austin Creek SRA,a873a61a-48ff-4d35-95cb-8b0c6961edd0,,-123.0435703,38.57144408
+6936,Mannings Flat I,GIS0006593,Environmental Camp Area,9,245,At mile point 4.8 on Austin Creek Trl,Austin Creek SRA,dfae5a33-c9a6-486f-8474-a326124f11a4,,-123.0656234,38.57852509
+6937,Mannings Flat II,GIS0006594,Environmental Camp Area,9,245,At mile point 5.0 on Austin Creek Trl,Austin Creek SRA,bddc7959-2ab2-4eb3-a896-3662a72fdf25,,-123.0668567,38.58076363
+6938,Woodson Bridge Group Camp,GIS0006595,Developed Group Camp Area,9,129,In Loop 19-37,Woodson Bridge SRA,e494376e-583b-4a97-9f5b-2ec6d0e098c8,,-122.0847806,39.91329401
+6939,Bidg Lagoon Environmental Campsites,GIS0006598,Environmental Camp Area,9,105,Number & location not determined,Humboldt Lagoons SP,adb89f3b-b559-45a2-b202-7d0988cd93ac,,-124.1086334,41.22230558
+6940,Penn Creek Campground,GIS0006599,Developed Family Camp Area,9,106,Loop 1-15,Sue-meg SP,dc08390d-d9a0-4d48-bb47-8bbe70520c1b,,-124.1552956,41.13370647
+6941,Abalone Campground,GIS0006600,Developed Family Camp Area,9,106,"Loop 16-85; ADASites 65, 68, 69",Sue-meg SP,10084cfb-2e1e-415a-959a-9da2596b3e92,,-124.1584129,41.13430105
+6942,Sue-meg Hike/Bike Camp,GIS0006601,Hike/Bike Camp Area,9,106,,Sue-meg SP,f7ed77be-ae08-4bb5-9e23-a6cba446de52,,-124.1595049,41.13841322
+6943,Manchester SP Group Camp,GIS0006602,Primitive Group Camp Area,9,147,,Manchester SP,5a76bb91-9682-466d-9a13-3b1dbbe74046,,-123.7042782,38.98147612
+6944,Manchester SP Campground,GIS0006603,Primitive Family Camp Area,9,147,Kinney Area Campground,Manchester SP,e1bbfc0f-71e7-4b8c-a570-f12486dcbfaf,,-123.699804,38.98225383
+6945,Manchester SP Hike/Bike Camp,GIS0006604,Hike/Bike Camp Area,9,147,,Manchester SP,0fdfafc9-8d1b-4a38-a48e-9000210aca4f,,-123.6994506,38.98160679
+6946,Navarro Beach Campground,GIS0006606,Primitive Family Camp Area,9,144,No water,Navarro River Redwoods SP,34de52ad-db07-4d95-af4e-8c04f09c7b58,,-123.7580968,39.19147282
+6947,Paul M. Dimmick Campground,GIS0006607,Primitive Family Camp Area,9,144,,Navarro River Redwoods SP,2b047d75-195f-4ae1-8e71-0b7245149208,,-123.63791,39.15739323
+6948,East Cleone Group Camp,GIS0006608,Developed Group Camp Area,9,146,,MacKerricher SP,d3913231-8a56-4a40-abc6-a679b6e10875,,-123.7906497,39.49008104
+6949,West Cleone Group Camp,GIS0006609,Developed Group Camp Area,9,146,,MacKerricher SP,2f072a06-d29c-49d3-9afd-8df7ba39b9f3,,-123.7928916,39.49016769
+6950,East Pinewood Campground,GIS0006610,Developed Family Camp Area,9,146,Loop 21-107,MacKerricher SP,6c5115b5-3515-486a-8f08-59d9259d67f3,,-123.7899223,39.49203595
+6951,Surfwood Campground,GIS0006611,Developed Family Camp Area,9,146,Loop 108-143,MacKerricher SP,b47945a5-134f-41de-ab83-53db0c706b4b,,-123.7961497,39.4875702
+6952,MacKerricher Walk-in Camp,GIS0006612,Hike/Bike Camp Area,9,146,Surfwood CG Walk-in camp,MacKerricher SP,d4fb6116-4268-4b84-8273-7fc33ea55b87,,-123.7975664,39.48689815
+6953,Van Damme Group Camp,GIS0006613,Developed Group Camp Area,9,142,,Van Damme SP,9b91d199-baaa-47ef-b3a9-b9a17a03c79d,,-123.7872946,39.2768584
+6954,Deer Campground,GIS0006614,Developed Family Camp Area,9,665,Upper RV (2 loops); Sites 192 - 353,Lake Perris SRA,ca07dfe5-455d-4071-b344-08ec64f0f127,,-117.1745093,33.87488883
+6955,Irvine Finch Enroute Camping,GIS0006615,Enroute Camp Area,9,163,,Bidwell-Sacramento River SP,4e933a31-87d6-451a-840b-2217f953e805,,-121.9985622,39.74958831
+6956,Bolsa Chica Campground,GIS0006616,Developed Family Camp Area,9,534,Hookups only.,Bolsa Chica SB,88883e95-b208-4474-953c-2aa81ddc9814,,-118.0435884,33.69122698
+6957,Benbow Lake RV only,GIS0006617,Developed Family Camp Area,9,123,Full hookups outside the rest of the cg,Benbow SRA,c6973610-e037-4b2c-813f-cab6b5c75225,,-123.7875808,40.05716183
+6958,Benbow Lake Campground,GIS0006618,Developed Family Camp Area,9,123,,Benbow SRA,8195ce40-98a9-4b4f-9113-3de6278005b3,,-123.7826455,40.06055947
+6959,Rio Group Site,GIS0006621,Developed Group Camp Area,9,592,,Silverwood Lake SRA,569f74b7-e4dc-449b-8bbd-1c3d159c8e76,,-117.3668031,34.28787448
+6960,Baranca Group Site,GIS0006622,Developed Group Camp Area,9,592,,Silverwood Lake SRA,a86485ff-f372-48d2-a241-b38362872824,,-117.3652741,34.28781365
+6961,Valle Group Site,GIS0006623,Developed Group Camp Area,9,592,,Silverwood Lake SRA,6f7f4fc3-244c-407b-8b18-500ae3cd77ea,,-117.3628175,34.28788999
+6962,Mesa Campground Hike and Bike Camp,GIS0006624,Hike/Bike Camp Area,9,592,,Silverwood Lake SRA,af7c6d8f-0e2d-4d25-85d1-915354d6c097,,-117.3452523,34.28406836
+6963,Miller Canyon Group Camp,GIS0006625,Developed Group Camp Area,9,592,,Silverwood Lake SRA,cb8fb4f3-e16c-4e98-8576-9ad02914a82a,,-117.2962436,34.27213939
+6964,Bidwell Canyon - Gold Flat,GIS0006626,Developed Family Camp Area,9,151,Sites 1-39,Lake Oroville SRA,f208468d-8d33-4a25-9a5b-f126d7b7b50a,,-121.4575438,39.53254502
+6965,Bidwell Canyon - Big Pine,GIS0006627,Developed Family Camp Area,9,151,Sites 40-75,Lake Oroville SRA,d4c622f6-bf4b-43e7-a2d4-b931d53db940,,-121.4575668,39.53555956
+6966,Spillway Boat Launch Parking Enroute Camping,GIS0006628,Enroute Camp Area,9,151,"Self-contained, 1 night",Lake Oroville SRA,abc36693-4085-4a50-872a-5091f0c299b5,,-121.4941737,39.54726151
+6967,Floating Campsites 1-2,GIS0006629,Developed Family Camp Area,9,151,,Lake Oroville SRA,18cdff9b-e2bb-4a2c-9061-79b7d1ec0642,,-121.481532,39.56698154
+6968,Bloomer Group Boat-in site,GIS0006630,Primitive Group Camp Area,9,151,,Lake Oroville SRA,faaf6607-bcda-46fa-ab88-65a71f221728,,-121.4947236,39.6103369
+6969,Boomer Ravine Boat-in Camp,GIS0006631,Primitive Family Camp Area,9,151,,Lake Oroville SRA,b984b00d-ff1f-4cbc-ba68-6a1c4dca4142,,-121.4785397,39.62707382
+6970,Boomer Boat-in Camps,GIS0006632,Primitive Family Camp Area,9,151,,Lake Oroville SRA,f4587b8e-5d1b-4565-9edb-c2525227c8ca,,-121.4958369,39.6180664
+6971,Goat Ranch Boat-in Camp,GIS0006633,Primitive Family Camp Area,9,151,,Lake Oroville SRA,5c97f479-0577-4d6b-927e-1cea12bcdb6b,,-121.4979143,39.65592433
+6972,Foreman Creek Boat-in Camp,GIS0006634,Primitive Family Camp Area,9,151,,Lake Oroville SRA,1bd6e0f3-8cf0-4001-be54-ebdb9ead5eb3,,-121.4632151,39.58363642
+6973,Floating Campsites 3-4,GIS0006635,Developed Family Camp Area,9,151,,Lake Oroville SRA,3d113942-35d0-44c6-8f16-d5e95fa76f49,,-121.4341416,39.57630554
+6974,Lime Saddle Campground,GIS0006636,Developed Family Camp Area,9,151,,Lake Oroville SRA,bdb81dbb-e150-42e3-a1ae-3cc82a08d0e0,,-121.5577522,39.68137174
+6975,Lime Saddle Group Camps,GIS0006637,Developed Group Camp Area,9,151,,Lake Oroville SRA,462ec505-9204-4805-bcfb-450a12c19cb1,,-121.5620162,39.68679127
+6976,Floating Campsite 5,GIS0006638,Developed Family Camp Area,9,151,,Lake Oroville SRA,a76168c6-ff56-4e08-8d16-632969bb3446,,-121.4091359,39.57716697
+6977,Floating Campsites 6-7,GIS0006639,Developed Family Camp Area,9,151,,Lake Oroville SRA,0c80ee74-5906-403f-a728-813e748b9179,,-121.3945687,39.56519973
+6978,Craig Saddle Boat-in Camp,GIS0006640,Primitive Family Camp Area,9,151,,Lake Oroville SRA,c5d96088-eadd-4bff-ae79-187be793afed,,-121.4070793,39.54935717
+6979,Floating Campsites 9-10,GIS0006641,Developed Family Camp Area,9,151,,Lake Oroville SRA,58ac591e-97e7-4f78-bf89-2d2be9ed65ce,,-121.3853053,39.52976636
+6980,Floating Campsite 8,GIS0006642,Developed Family Camp Area,9,151,Location may change with lake conditions,Lake Oroville SRA,d977d485-6a79-4df3-a0d4-1057eb1a74f2,,-121.4149618,39.54827402
+6981,Coyote Campground,GIS0006643,Developed Family Camp Area,9,151,,Lake Oroville SRA,c09f21f3-428b-4879-8ed3-22855d70dab1,,-121.4467617,39.52756565
+6982,Loafer Creek Horse Camps,GIS0006644,Horse Camp Area,9,151,,Lake Oroville SRA,f6209442-c0ed-4df6-88d6-6ef22429f2da,,-121.455666,39.5224819
+6983,Loafer Creek Group Camps,GIS0006645,Developed Group Camp Area,9,151,"Grasshoper, Jackrabbit, Manz Berry, etc",Lake Oroville SRA,eb25a794-dccd-4b89-804a-227cf0f4b2fe,,-121.4486372,39.5194308
+6984,Huckleberry Campground,GIS0006646,Developed Family Camp Area,9,116,Huckleberry Campground Family and Hike and Bike,Richardson Grove SP,5d674908-1a5c-427f-8e86-b3a03d16925d,,-123.7950399,40.02237867
+6985,Richardson Grove Group Campground,GIS0006647,Developed Group Camp Area,9,116,Group campground by day use,Richardson Grove SP,a9091cde-1af2-4d4d-bebc-bcc65b5c3961,,-123.7899999,40.01902945
+6986,Cedar Grove Group Camp,GIS0006648,Developed Group Camp Area,9,617,,Palomar Mountain SP,48f1b367-c246-4520-b0f7-67c4cffae88a,,-116.9112326,33.33998831
+6987,Wheeler Camp,GIS0006649,Environmental Camp Area,9,133,,Sinkyone Wilderness SP,71a4206a-fa4d-4404-a839-96d11b89bc33,,-123.9114943,39.88515916
+6988,Orchard Camp,GIS0006650,Environmental Camp Area,9,133,,Sinkyone Wilderness SP,716e8874-8f2e-4046-bda6-6ed281988d5f,,-123.9429657,39.91945667
+6989,Streamside Camp,GIS0006651,Environmental Camp Area,9,133,,Sinkyone Wilderness SP,7789d6a4-67ba-486e-83c0-284864044b98,,-123.9671774,39.94585861
+6990,Jones Beach Camp,GIS0006652,Environmental Camp Area,9,133,,Sinkyone Wilderness SP,664f1915-ad88-4dc3-94a6-7a8379a7d862,,-123.9719176,39.953206
+6991,Borrego Palm Canyon,GIS0006653,Developed Family Camp Area,9,622,Upper Campground,Anza-Borrego Desert SP,204a5ece-6a4f-4903-8261-9d8f1396a034,,-116.4157781,33.26857408
+6992,Culp  Valley,GIS0006654,Primitive Family Camp Area,9,622,,Anza-Borrego Desert SP,f9c28280-834a-4ab5-ae02-85e91aa4dd04,,-116.4551497,33.22392431
+6993,Group Camp A,GIS0006666,Developed Group Camp Area,9,218,Group Camps A - Accessible feature,Clear Lake SP,27a868ca-d485-4bca-9f1d-5b31497f72a0,,-122.812898,39.01887526
+6994,Lower Bayview Campground,GIS0006667,Developed Family Camp Area,9,218,Lower Bayview Campground sites 92-112,Clear Lake SP,af24b3ae-d251-4fa0-bed3-44ae49ff4d60,,-122.8052162,39.01565099
+6995,Cole Creek Campground,GIS0006668,Hike/Bike Camp Area,9,218,Cole Creek Campground - Bike and Hike sites,Clear Lake SP,fd436184-324b-440d-97d0-82c2d985865d,,-122.8138962,39.01526569
+6996,Upper Bayview Campground,GIS0006669,Developed Family Camp Area,9,218,Upper Bayview Campground sites 113-147,Clear Lake SP,0d90f30e-985e-46bb-bb89-17176f01290d,,-122.8095644,39.01257933
+6997,Kelsey Creek Campground,GIS0006670,Developed Family Camp Area,9,218,Kelsey Creek Campground,Clear Lake SP,587c16cc-1005-4cc2-8e54-e2758f97a445,,-122.8103378,39.01868729
+6998,Williams Grove Group Campground,GIS0006671,Developed Group Camp Area,9,119,,Humboldt Redwoods SP,dba31d47-c2e9-4d50-ae9f-26786dbe91f9,,-123.8879363,40.27657154
+6999,,GIS0006673,Developed Group Camp Area,9,119,,Humboldt Redwoods SP,6ed9e2e9-7f48-47b0-9dc9-48e94660563a,,-123.9277049,40.32549619
+7000,Proposed Hamilton Trail Camp,GIS0006674,Environmental Camp Area,9,119,Proposed,Humboldt Redwoods SP,8e94eb19-ca5e-4208-b367-807484a17bca,,-124.0273795,40.34430787
+7001,Grasshopper Trail Camp,GIS0006675,Primitive Family Camp Area,9,119,Grasshopper Trail Camp,Humboldt Redwoods SP,a02cba5e-8a8b-4a85-9273-3ccf8e19980a,,-123.9747891,40.30957451
+7002,Bull Creek Trail Camp,GIS0006676,Primitive Family Camp Area,9,119,,Humboldt Redwoods SP,1cd8aed2-90e7-40f5-8c0f-d7020ec25c4a,,-124.0099721,40.28790918
+7003,Whiskey Flat Trail Camp,GIS0006677,Primitive Family Camp Area,9,119,,Humboldt Redwoods SP,fb019684-fd66-4494-849d-0a3e8cd6a63b,,-124.0139945,40.32097344
+7004,Hansen Ridge Trail Camp,GIS0006678,Primitive Family Camp Area,9,119,,Humboldt Redwoods SP,991b0ea3-602e-48c6-810c-23a0e56d9395,,-124.0120984,40.31045389
+7005,Johnson Trail Camp,GIS0006679,Primitive Family Camp Area,9,119,JOHNSON CAMP   -   TRAIL CAMP,Humboldt Redwoods SP,4cad215c-6620-4908-bfca-3850b52db4f0,,-123.9801001,40.32769878
+7006,Valley View CG,GIS0006586,Developed Family Camp Area,9,412,Valley View CG,Fremont Peak SP,75257977-ced7-46c6-9a54-7c14f4e29b81,,-121.5048421,36.76060556
+7007,Deer Canyon EC,GIS0006587,Environmental Camp Area,9,594,Deer Canyon EC,Crystal Cove SP,03a7347c-88a4-42b8-9f92-c73f28093adb,,-117.8013346,33.59353686
+7008,Upper Moro Ridge Environmental Campground,GIS0006588,Environmental Camp Area,9,594,Upper Moro Ridge Env Camp,Crystal Cove SP,429eb5d5-e222-45a4-b921-30359364dd03,,-117.7890732,33.58509125
+7009,Lower Moro Ridge Environmental Campground,GIS0006589,Environmental Camp Area,9,594,Lower Moro Ridge Env Camp,Crystal Cove SP,d7bef527-4599-4626-9c8c-c5e4ccaa682e,,-117.7943786,33.57585514
+7010,Headquarters CG,GIS0006657,Developed Family Camp Area,9,623,"RV Campground, HQ- 15 Hookups",Salton Sea SRA,75d91b1e-b53d-4e14-b19d-47e1c68ac534,,-115.9146692,33.50498915
+7011,New Campground,GIS0006658,Developed Family Camp Area,9,623,CG- New Camp,Salton Sea SRA,b5fc4565-9a24-4b7b-9d9e-0f1f694b8200,,-115.9118289,33.50159242
+7012,Mecca Beach Campground,GIS0006659,Developed Family Camp Area,9,623,Campground- Mecca,Salton Sea SRA,000c5ca1-9b50-42f8-9d45-34d92affa119,,-115.9017838,33.49009883
+7013,Lester Beach,GIS0006688,Developed Family Camp Area,9,303,Premium Campsites 141-168,D.L. Bliss SP,b1942992-d9d2-4c4f-8822-7c85869b6752,,-120.101538,38.9990969
+7014,Tahoe SRA Family Camp Area,GIS0006689,Developed Family Camp Area,9,302,Meadow side of Hwy 28,Tahoe SRA,904b62d9-bbe2-4a1b-8519-9b17ce49a9c4,,-120.1371849,39.17597451
+7015,Buckeye Group Camp,GIS0006694,Primitive Group Camp Area,9,203,,Mount Diablo SP,464b045b-2307-46c8-a9ff-5d442662969f,,-121.9314119,37.85513341
+7016,Russian Gulch SP Group Campground,GIS0006695,Developed Group Camp Area,9,141,Russian Gulch SP Group Campground,Russian Gulch SP,2aec3371-91bc-4d4b-94f7-1466bc404d5e,,-123.802461,39.3301167
+7017,Highland Meadow Campground,GIS0006696,Developed Family Camp Area,9,142,,Van Damme SP,08a5b2b0-88f8-4804-b18e-1cbfcf9a70b4,,-123.7865795,39.27973847
+7018,Van Damme SP Hike/Bike Camp,GIS0006697,Hike/Bike Camp Area,9,142,,Van Damme SP,688f24a9-5276-40b3-9e05-8c0423f84a4d,,-123.7844215,39.27652395
+7019,Fern Canyon Environmental Camp,GIS0006698,Environmental Camp Area,9,142,1.5 miles E of Park entrance along Fern Canyon Tr,Van Damme SP,e1e6126d-ab6f-49eb-86ee-53a64a0d7816,,-123.7537316,39.27766022
+7020,Russian Gulch Campground,GIS0006699,Developed Family Camp Area,9,141,,Russian Gulch SP,2f4d7b5d-8a16-44a6-ada7-676fd975314a,,-123.798557,39.33114513
+7021,Wright's Beach Campground,GIS0006700,Developed Family Camp Area,9,209,,Sonoma Coast SP,0270effe-2328-4d69-8ba1-b74ca5bdfc94,,-123.0950755,38.40024153
+7022,Bodega Dunes - Lower,GIS0006701,Developed Family Camp Area,9,209,two loops -,Sonoma Coast SP,c5929b6e-83fb-4b16-ba18-bbb97ab86c8a,,-123.0554727,38.33814306
+7023,Bodega Dunes Walk-in site,GIS0006702,Hike/Bike Camp Area,9,209,,Sonoma Coast SP,5c845983-fc4a-4540-88d7-f778ba906c1a,,-123.053373,38.34115381
+7024,Green Valley Campground,GIS0006703,Developed Family Camp Area,9,618,,Cuyamaca Rancho SP,6e7b7f27-6f83-424b-a759-bf9e48a9fc23,,-116.584609,32.90480112
+7025,Red Alder Group Campground,GIS0006704,Developed Group Camp Area,9,106,,Sue-meg SP,8173aacb-0991-439a-843d-d8f22ea0ebd9,,-124.1549195,41.1376644
+7026,Beach Creek Group Camp,GIS0006705,Developed Group Camp Area,9,106,,Sue-meg SP,1b9523a6-0588-48cc-b03c-5cc09d979b82,,-124.1563171,41.1314764
+7027,Westport-Union Landing Campground,GIS0006706,Primitive Family Camp Area,9,150,campground at Abalone Point,Westport-Union Landing SB,66ed5a1c-fdcd-497f-9311-3f144468ff21,,-123.7906638,39.66756091
+7028,Primitive CG North of DeHaven Cr,GIS0006707,Hike/Bike Camp Area,9,150,walk in campground due to road washout (?),Westport-Union Landing SB,9ab01ffb-25e5-4048-b5a0-a98c18079439,,-123.7875591,39.6637185
+7029,Primitive CG near DeHaven Cr,GIS0006708,Hike/Bike Camp Area,9,150,walkin campground due to road washout (?),Westport-Union Landing SB,f12d1cea-45a0-4b30-bd41-6875d520253f,,-123.7867251,39.66211685
+7030,Westport-Union Landing CG near Howard Cr Rd,GIS0006709,Primitive Family Camp Area,9,150,open coastal bluff overlook,Westport-Union Landing SB,af6053f9-670f-439c-9db2-a8b471b2beae,,-123.7915468,39.6822306
+7031,primitive CG at Howard Cr,GIS0006710,Primitive Family Camp Area,9,150,,Westport-Union Landing SB,bffcf508-81ca-47bd-aea8-04776711ba46,,-123.7910135,39.67921636
+7032,West Pinewood Campground,GIS0006711,Developed Family Camp Area,9,146,Sites 61-107,MacKerricher SP,970cbb41-c1cb-4392-af55-acc39a909700,,-123.7914886,39.49199829
+7033,RV Campground,GIS0006712,Developed Family Camp Area,9,541,Recreational Vehicle parking / hook-ups,Dockweiler SB,015a45a3-7045-4887-a9e7-348e918f8032,,-118.4338633,33.927226
+7034,Warren Group Camp,GIS0006713,Developed Group Camp Area,9,248,"fire-ring, picnic table, food locker, water.",Salt Point SP,1df4bf3b-ad73-4046-83c8-8ffc07a6aea5,,-123.3300719,38.57168713
+7035,Woodside walk-in campsites,GIS0006714,Hike/Bike Camp Area,9,248,,Salt Point SP,3a5db4f1-8094-462f-b55b-69664eae8659,,-123.3076323,38.56634587
+7036,Woodside Hike and Bike Campground,GIS0006715,Hike/Bike Camp Area,9,248,for campders on foot or bicycles,Salt Point SP,e9e7702b-b947-424b-b3aa-18622a3b9c2e,,-123.3187159,38.57055332
+7037,Chino Hills Group Camp,GIS0006716,Primitive Group Camp Area,9,508,Group camp in equestrian staging area,Chino Hills SP,8d8cf0e7-3353-4288-937e-ee74850026d4,,-117.7015106,33.92159041
+7038,Chino Hills Horse Camp,GIS0006717,Horse Camp Area,9,508,,Chino Hills SP,4488bfb2-447c-4291-b1e6-4f716b28fa15,,-117.7013272,33.92005798
+7039,Ossagon Creek Trail Camp,GIS0006723,Primitive Family Camp Area,9,104,primitive camp walk in,Prairie Creek Redwoods SP,1e12a997-9953-47f8-af99-542f22427172,,-124.0595731,41.44179964
+7040,Tolowa Dunes SP Horse Camp,GIS0006724,Horse Camp Area,9,134,Horse Camp,Tolowa Dunes SP,64dc77b1-120c-49ca-8acd-89837e4c4cfc,,-124.1929163,41.89893096
+7041,Tolowa Dunes SP Environmental Camp,GIS0006725,Environmental Camp Area,9,134,,Tolowa Dunes SP,ce971b6e-fe54-4a56-b177-3a9261d303b6,,-124.1987182,41.87123502
+7042,Oak Hollow Campground,GIS0006726,Developed Family Camp Area,9,306,,Calaveras Big Trees SP,8a2487ab-610b-4197-bbbd-1eb61471069e,,-120.2900956,38.27318843
+7043,Lone Snag,GIS0006727,Environmental Camp Area,9,306,,Calaveras Big Trees SP,494424d3-7088-47f5-b3aa-dcb76554ecc9,,-120.2906697,38.28190401
+7044,Huckleberry Tent Cabins,GIS0006728,Developed Family Camp Area,9,406,Huckleberry Campground Tent Cabins,Big Basin Redwoods SP,0b229538-a4d4-4a21-960b-dcb31a4c5baf,,-122.2050653,37.17670214
+7045,Sheep Canyon,GIS0006729,Primitive Family Camp Area,9,622,Primitive campground,Anza-Borrego Desert SP,61fdc627-4f7d-445f-91b8-81aad587cf2b,,-116.479347,33.3653695
+7046,Arroyo Salado,GIS0006730,Primitive Family Camp Area,9,622,,Anza-Borrego Desert SP,22d8582b-07dc-4160-a88b-a4918471cee8,,-116.1384152,33.27628459
+7047,Bow Willow,GIS0006731,Developed Family Camp Area,9,622,Semi-developed campground,Anza-Borrego Desert SP,12b56df0-5d2b-4d8c-93dd-fad1bdb60c29,,-116.2253073,32.8419464
+7048,Yaqui Pass,GIS0006732,Primitive Family Camp Area,9,622,,Anza-Borrego Desert SP,3c2cf160-fe3a-4488-8653-55364491a684,,-116.3493184,33.14889179
+7049,Yaqui Well,GIS0006733,Primitive Family Camp Area,9,622,,Anza-Borrego Desert SP,88fe61c9-d5fd-4360-ac60-07b5dd798c63,,-116.3889445,33.13756211
+7050,Fish Creek,GIS0006734,Primitive Family Camp Area,9,622,,Anza-Borrego Desert SP,238da960-79de-4403-8048-d30e725e4f60,,-116.1099148,33.02281313
+7051,Mountain Palm Springs,GIS0006735,Primitive Family Camp Area,9,622,,Anza-Borrego Desert SP,2d32b7f3-78c0-4625-a8d3-42e2158c460f,,-116.2182349,32.86366742
+7052,Blair Valley,GIS0006736,Primitive Family Camp Area,9,622,,Anza-Borrego Desert SP,2f19611a-f81b-4a4d-b296-d40286753521,,-116.3991196,33.0329705
+7053,Redwood Campground,GIS0006739,Developed Family Camp Area,9,117,,Standish-Hickey SRA,6d105b3a-bc95-4523-b44f-c7002087e67a,,-123.7282325,39.87474699
+7054,Rock Creek Campground,GIS0006740,Developed Family Camp Area,9,117,,Standish-Hickey SRA,4eeb327a-0e1c-4db8-bd2c-944cecfbcede,,-123.7249423,39.87716454
+7055,Creek CG,GIS0006741,Developed Family Camp Area,9,301,sites 50-108,Donner Memorial SP,ddd94562-7fca-42da-a9e4-9c35cd0fa543,,-120.2328401,39.31970649
+7056,Ridge CG,GIS0006742,Developed Family Camp Area,9,301,sites 1-49,Donner Memorial SP,c13702dd-edc5-49f2-9630-a59e1af10f39,,-120.2365706,39.32054842
+7057,Splitrock CG,GIS0006743,Developed Family Camp Area,9,301,sites 109-154,Donner Memorial SP,da53c134-305c-4b00-b3a9-af735ef402c6,,-120.2411008,39.31909464
+7058,Paso Picacho Campground,GIS0006747,Developed Family Camp Area,9,618,,Cuyamaca Rancho SP,02710b74-ee67-4e66-a44d-ef7bce872bb8,,-116.5818126,32.95813839
+7059,"Paso Picacho Group Camps A, B",GIS0006748,Developed Group Camp Area,9,618,,Cuyamaca Rancho SP,b30a6601-be0a-4d2e-96da-47158aa6b7ba,,-116.583516,32.96291147
+7060,Los Vaqueros Group Horse Campground,GIS0006749,Horse Camp Area,9,618,"limit 45 horses, 1 / corral, 50 vehicles 50' max",Cuyamaca Rancho SP,4c2e5c9b-f74f-48f0-b4e5-9fd42ad0b4f7,,-116.5617584,32.96940607
+7061,Arroyo Seco Trail Camp,GIS0006750,Primitive Family Camp Area,9,618,Horse corrals available,Cuyamaca Rancho SP,4e2eee20-68cb-4066-abab-d359c4fb3bb4,,-116.5992785,32.92050727
+7062,Granite Springs Trail Camp,GIS0006751,Primitive Family Camp Area,9,618,Horse corrals available,Cuyamaca Rancho SP,e22dfcd2-3f90-4d23-a0ed-c58d63414fc9,,-116.5320334,32.90471583
+7063,Ridge Campground,GIS0006752,Developed Family Camp Area,9,303,sites 91-140,D.L. Bliss SP,50e913ae-2aef-4961-b792-ed44de7a7f00,,-120.1047661,38.99232568
+7064,Pines Campground,GIS0006753,Developed Family Camp Area,9,303,sites 1-90,D.L. Bliss SP,412295a7-2d8f-4209-ad85-e402fe1f5e60,,-120.1022869,38.98675276
+7065,Lower Eagle Point Campground,GIS0006756,Developed Family Camp Area,9,313,Sites 36-100,Emerald Bay SP,4cc6fda8-ea73-4f88-95f9-ec11936f3738,,-120.0800547,38.96150287
+7066,Chute Hill Group Campground,GIS0006760,Developed Group Camp Area,9,356,,Malakoff Diggins SHP,abf66938-0966-4574-acbb-f598ddaaebb5,,-120.9009806,39.38109891
+7067,Chute Hill Campground,GIS0006761,Developed Family Camp Area,9,356,,Malakoff Diggins SHP,851606ac-6c7a-441c-8390-ac70070e8bfa,,-120.9041048,39.37672033
+7068,Kopta Canoe Camp,GIS0006762,Primitive Family Camp Area,9,129,non-specific site for canoists,Woodson Bridge SRA,8c0151fe-162d-48e6-bdae-3b7f4b3fc846,,-122.0988481,39.91702323
+7069,Azalea Campground,GIS0006763,Developed Family Camp Area,9,148,,Hendy Woods SP,b374bca6-7b84-4f50-a577-ce2881217ca6,,-123.4767661,39.07517154
+7070,Wildcat Campground,GIS0006764,Developed Family Camp Area,9,148,,Hendy Woods SP,9be594a4-bdd2-4cab-84b7-97d972ac7c64,,-123.4743523,39.07493603
+7071,Wildcat Hike/Bike,GIS0006765,Hike/Bike Camp Area,9,148,site reserved in Wildcat,Hendy Woods SP,504777f2-5798-464b-b94b-53349801cbff,,-123.4744681,39.07441075
+7072,Salmon Bend Camp Beach,GIS0006766,Developed Family Camp Area,9,316,W bank of Stanislaus River,Caswell Memorial SP,8f81e82e-0421-4c25-ad2c-a207d5632aed,,-121.1777378,37.70108054
+7073,Caswell Memorial Group Tent Campground,GIS0006767,Developed Group Camp Area,9,316,tent camping for up to 50 people,Caswell Memorial SP,6d14368a-6cbf-401d-b654-f0698e015de6,,-121.1807556,37.6999965
+7074,Camp Lisa,GIS0006769,Developed Group Camp Area,9,321,Disabled Access,Plumas-Eureka SP,2dbb603c-8814-4d64-9196-4719b49ff685,,-120.7032219,39.74404934
+7075,La Jolla Valley Hike In Camp,GIS0006770,Hike/Bike Camp Area,9,573,"11 sites, 1 group camp",Point Mugu SP,f53d4b94-1d2d-4929-8715-5cd2d54552c6,,-119.036215,34.10772154
+7076,Danielson,GIS0006771,Primitive Family Camp Area,9,573,DANIELSON MULTI USE AREA,Point Mugu SP,a8d80120-5725-4050-880f-65a9fe067a02,,-118.9929044,34.12516483
+7077,Accessible Site 10,GIS0006776,Environmental Camp Area,9,231,Accessible Environmental Camp,Angel Island SP,d68afb32-84b4-4a61-be40-1107af321ff1,,-122.4411001,37.86124714
+7078,Rocky Point Campground,GIS0006777,Developed Family Camp Area,9,378,,Millerton Lake SRA,2a0cc17a-8307-4a10-a77f-b690543cba28,,-119.6840131,37.01900404
+7079,Mono Campground,GIS0006778,Developed Family Camp Area,9,378,Mono Campsites,Millerton Lake SRA,b8d67be2-c089-4811-9313-2a50b2b1396c,,-119.6840007,37.02140021
+7080,Fort Miller,GIS0006779,Developed Family Camp Area,9,378,Fort Miller,Millerton Lake SRA,e5b5d1f5-78b6-49b2-a1c5-a54799c69224,,-119.6810003,37.0227998
+7081,Dumna Strand,GIS0006780,Developed Family Camp Area,9,378,Dumna Strand,Millerton Lake SRA,ddf52725-8476-48a6-a0da-d2ea34783c79,,-119.6807311,37.02500013
+7082,Valley Oak,GIS0006781,Developed Family Camp Area,9,378,Valley Oak,Millerton Lake SRA,17092eeb-0137-4f22-bf72-2bcdef7e1acf,,-119.6660116,37.02210394
+7083,Meadows,GIS0006782,Developed Family Camp Area,9,378,Meadows,Millerton Lake SRA,b1aea58d-f4bc-4bd9-b11e-2a10d9fae4c6,,-119.6680032,37.01939386
+7084,Temperance Flat Boat-In,GIS0006783,Primitive Family Camp Area,9,378,Boat-in campground,Millerton Lake SRA,591d4a75-0217-4965-8ac5-3a48bf7fb1f3,,-119.5869791,37.06767256
+7085,San Luis Creek Campground,GIS0006784,Developed Family Camp Area,9,333,,San Luis Reservoir SRA,3e9b781c-bf2a-46d7-822a-54fb4dbb5449,,-121.065529,37.108412
+7086,San Luis Creek Group Camp,GIS0006785,Developed Group Camp Area,9,333,,San Luis Reservoir SRA,9ff52c18-00c2-498c-99ad-86970233cd98,,-121.06245,37.09444
+7087,Los Banos Creek Campground,GIS0006786,Primitive Family Camp Area,9,333,Los Banos Creek Campground,San Luis Reservoir SRA,aac512fd-eb76-4b28-851e-2a4711f5cee0,,-120.9396923,36.98617485
+7088,Medeiros Campground,GIS0006787,Undefined,9,333,Medeiros Campground,San Luis Reservoir SRA,2362f586-e3f6-4a25-ab55-d7d7c87dddb5,,-121.0381388,37.06864953
+7089,San Luis Creek Group Camp,GIS0006789,Developed Group Camp Area,9,333,,San Luis Reservoir SRA,1c1770e3-43de-4d84-9f15-986f51518525,,-121.0608839,37.08682973
+7090,Baxter  Camp,GIS0006794,Environmental Camp Area,9,119,BAXTER CAMP   -   ENVIR. CAMP,Humboldt Redwoods SP,999588f7-2ab4-4ff1-a934-16abd7d95a64,,-124.0242121,40.34316395
+7091,Saddle Rock Environmental Camp,GIS0006793,Environmental Camp Area,9,462,SOUTH GARDENS   -   CAMPSITES ENVIROM,Julia Pfeiffer Burns SP,3a2b1df4-310c-4d58-8c7c-c38cb1eeceff,,-121.6716365,36.15652152
+7092,NORTH OF RIVER   -   GRD WALKING CAMP,GIS0006792,Primitive Family Camp Area,9,491,NORTH OF RIVER   -   GRD WALKING CAMP,Andrew Molera SP,25797ebe-2dad-406a-845b-29b26396f8d1,,-121.8515842,36.28674544
+7093,BAT WALLACE   -   ENVIR CAMPSITE,GIS0006797,Developed Family Camp Area,9,231,BAT WALLACE   -   ENVIR CAMPSITE- Site #5,Angel Island SP,751ab095-3db0-4ed7-9778-07233cfec913,,-122.4404421,37.85730607
+7094,BAT WALLACE   -   ENVIR CAMPSITE,GIS0006795,Developed Family Camp Area,9,231,BAT WALLACE   -   ENVIR CAMPSITE-site #6,Angel Island SP,fa28920f-9f6f-42c2-9d8d-28aa3de0d07b,,-122.4402454,37.85782183
+7095,NORTH GARRISON   -   CAMPSITE-GROUP,GIS0006796,Developed Family Camp Area,9,231,NORTH GARRISON   -   CAMPSITE-GROUP,Angel Island SP,e116cea9-775c-4901-a4d7-b789c0ddb19a,,-122.4256816,37.86692356
+7096,Russian Gulch SP Campground,GIS0006805,Developed Family Camp Area,9,141,,Russian Gulch SP,61ff9348-d777-4156-9df6-0d74e2c73201,,-123.7579181,39.33475696
+7097,Proposed Upper Gould Trail Camp,GIS0006807,Undefined,9,119,Proposed,Humboldt Redwoods SP,4651abea-85c9-44c4-a5d7-a38609133035,,-123.9965339,40.29021445
+7098,Proposed Fox Camp,GIS0006808,,9,119,Proposed,Humboldt Redwoods SP,66bacf84-75b6-49a1-9887-a8551dcb5e0d,,-124.0683712,40.33287795
+7099,Hamilton Barn Environmental Camp,GIS0006806,Environmental Camp Area,9,119,HAMILTON BARN   -   ENVIR. CAMP,Humboldt Redwoods SP,8390c0a1-a51e-41aa-840b-c75ea65c0721,,-124.0208637,40.35095335
+7100,Proposed Grasshopper Trail Camp,GIS0006809,Undefined,9,119,Proposed,Humboldt Redwoods SP,33237cd0-d938-4ed1-9323-c7607df12936,,-123.9841449,40.29900035
+7101,North Shore Horse Camp Area,GIS0006810,Horse Camp Area,9,378,,Millerton Lake SRA,61fc6d91-a21d-41d1-a578-2fb43d312d5f,,-119.6679676,37.02245909
+7102,BACK OF SITE 49   -   BIKE CAMP SITES,GIS0006800,Developed Family Camp Area,9,573,BACK OF SITE 49   -   BIKE CAMP SITES,Point Mugu SP,828281ce-e654-4f60-b31b-3caf26658ab1,,-119.0152502,34.07321336
+7103,Russian Gulch Group CG,GIS0006801,Developed Group Camp Area,9,141,,Russian Gulch SP,cf5d13e1-3e3c-4fa2-a6f9-2d66a9160348,,-123.8025365,39.32969131
+7104,Moro Campground,GIS0006802,Developed Family Camp Area,9,594, 60 SITES (30 W/HOOKUPS),Crystal Cove SP,c55b9a82-0ef3-4ead-b780-f777fe274cf0,,-117.8222989,33.56333651
+7105,Humboldt Lagoons Boat-in campsite,GIS0006803,Undefined,9,105,,Humboldt Lagoons SP,859d32f5-4927-46ad-8bd2-59ae3c7ff6fb,,-124.0965476,41.23767283
+7106,Little Basin Campground 18-21,GIS0006817,Developed Family Camp Area,9,406,,Big Basin Redwoods SP,4839bf0c-c812-4245-978a-54bf2ece357c,,-122.2073102,37.15779369
+7107,Little Basin Campground 9-15,GIS0006820,Developed Family Camp Area,9,406,,Big Basin Redwoods SP,1a832bf9-ee39-457a-ad2d-df8226c946a1,,-122.2063936,37.15740372
+7108,Little Basin Campground 44-45,GIS0006816,Developed Family Camp Area,9,406,,Big Basin Redwoods SP,e8422f35-908b-4de5-834a-ab540eac820c,,-122.205475,37.15918169
+7109,Pfeiffer Big Sur Hike/Bike Campground,GIS0006815,Hike/Bike Camp Area,9,448,Hike/Bike Campground,Pfeiffer Big Sur SP,a2616152-3a86-49c9-ab8b-a0f6b235e9eb,,-121.7810501,36.24918595
+7110,,GIS0006812,Developed Family Camp Area,9,448,,Pfeiffer Big Sur SP,91b6034d-4795-4044-8bea-ea2dcb6033f6,,-121.7758037,36.2423642
+7111,,GIS0006814,Developed Family Camp Area,9,448,,Pfeiffer Big Sur SP,44d1e5c0-59e0-48f5-8f27-e2d7807b0e68,,-121.7729139,36.24255911
+7112,,GIS0006813,Developed Family Camp Area,9,448,,Pfeiffer Big Sur SP,83165566-cca9-49f1-b2e4-6d3c680c6bb4,,-121.7726154,36.24513914
+7113,Oak Point Campground,GIS0094793,Developed Family Camp Area,9,412,,Fremont Peak SP,1f490826-c1ff-409f-9f0b-5b5ed8f77085,,-121.502303,36.76154736
+7114,Providence Mountains Campground,GIS0094794,Primitive Family Camp Area,9,538,,Providence Mountains SRA,0b793986-6cbc-4627-884b-55b9128bfae6,,-115.5122372,34.9434261
+7115,Benicia SRA Enroute Camping,GIS0094797,Enroute Camp Area,9,224,Enroute camping rules apply; see Park Home Page,Benicia SRA,1bc34bf2-7a0b-4de2-91b6-9fe4be74e859,,-122.1941874,38.07857783
+7116,Bobcat Campground,GIS0097917,Developed Family Camp Area,9,665,Sites 354 - 390,Lake Perris SRA,77428fd1-cf9a-47de-a697-5148bf3feed0,,-117.1747832,33.87775382
+7117,Coyote Campground,GIS0097918,Developed Family Camp Area,9,665,Lower RV; Sites 89 - 190,Lake Perris SRA,9295f205-2ed8-4f57-81a2-765d59303337,,-117.1766457,33.87228629
+7118,Pfeiffer Big Sur Group Camp A,GIS0097919,Developed Group Camp Area,9,448,N group camp of 2 along Buzzards Roost Trail,Pfeiffer Big Sur SP,74e961fe-66d4-4efa-b2bd-670ffc1a4fa4,,-121.7897107,36.25611045
+7119,Pfeiffer Big Sur Group Camp B,GIS0097920,Developed Group Camp Area,9,448,southern of 2 group camps along Buzzard's Roost Tr,Pfeiffer Big Sur SP,ab116760-6059-4ac2-b1a9-1c2c0bfcff2f,,-121.7893185,36.25423824
+7120,Pfeiffer Big Sur Group Camp B,GIS0097921,Developed Group Camp Area,9,448,S of 2 group camps along Buzzard's Roost Tr,Pfeiffer Big Sur SP,1be00bfb-ac37-48bc-8389-c6e266e1b60c,,-121.7893185,36.25423824
+7121,Group Canoe Camp #2,GIS0097922,Primitive Group Camp Area,9,658,"Campground,Picacho Boat in #2",Picacho SRA,1edb00ba-c200-4894-82a9-ac6f5ab538aa,,-114.6119327,33.02303187
+7122,Group Canoe Camp #1,GIS0097923,Primitive Group Camp Area,9,658,"Campground,Picacho Boat in #1",Picacho SRA,6a48a775-0349-42c4-be92-ba959c9d3068,,-114.6109679,33.02277518
+7123,Picacho Main Campground,GIS0097925,Developed Family Camp Area,9,658,"Campground, Picacho Main camp",Picacho SRA,1f378666-f5ff-4ee0-8d4b-5b8260de5209,,-114.6179858,33.02334523
+7124,Taylor Lake Camp,GIS0097926,Primitive Family Camp Area,9,658,Taylor Lake Boat-in sites- Campground,Picacho SRA,c5b18bc6-9b82-4709-b971-6206008bf6cd,,-114.6373114,33.02946231
+7125,Carrizo Boat-in Camp,GIS0097927,Primitive Family Camp Area,9,658,"Campground, Carrizo",Picacho SRA,0f0c2e32-390b-405d-9f97-777f5416ae42,,-114.6697418,33.0362264
+7126,The Outpost,GIS0097928,Primitive Family Camp Area,9,658,Campground Outpost,Picacho SRA,1e3b7da3-9ac1-43bd-9c7e-aee2e95fd2b7,,-114.6874297,33.06998094
+7127,4 S Beach Camp,GIS0097929,Developed Family Camp Area,9,658,Campground- 4-S,Picacho SRA,f1d53e15-3163-44e8-acc3-56dd93bc294b,,-114.6752882,33.05604014
+7128,Carnegie Campground,GIS0106972,Developed Family Camp Area,9,272,,Carnegie SVRA,58bdc570-aa9d-4cb2-ae01-dc6b8db2c1f0,,-121.5376729,37.63144678
+7129,San Clemente Campground,GIS0106973,Developed Family Camp Area,9,611,San Clemente Campground,San Clemente SB,c27baa76-305e-4541-8c3c-c5d01305f366,,-117.6010699,33.40225114
+7130,Group Campground #1,GIS0106974,Developed Group Camp Area,9,611,Group Campground #1,San Clemente SB,c5070151-be97-447a-a624-3581bd4f91ce,,-117.6019754,33.40091278
+7131,Group Campground #2,GIS0106975,Developed Group Camp Area,9,611,Group Campground #2,San Clemente SB,0d390443-40e8-45eb-b016-e4910d7402d1,,-117.6019271,33.40320356
+7132,Bluffs Group Campground 1,GIS0106976,Developed Group Camp Area,9,663,Bluffs Group Campground 1,San Onofre SB,1a67545a-d83f-49ad-8f37-37d0c5a2225b,,-117.5197261,33.34668978
+7133,Bluffs Campground 1-23: RV,GIS0106977,Developed Family Camp Area,9,663,,San Onofre SB,cdeb9488-940c-4f48-92d6-108db7638b44,,-117.529297,33.35409954
+7134,Bluffs Campground 24-34: RV,GIS0106978,Developed Family Camp Area,9,663,,San Onofre SB,5cdab9b8-2588-43e2-8956-93fcd75d88e1,,-117.5249035,33.35045206
+7135,Bluffs Campground 35-45: RV,GIS0106979,Developed Family Camp Area,9,663,,San Onofre SB,787851b4-5a41-40e3-9b24-2b484fb212ee,,-117.5229616,33.34883439
+7136,Bluffs Campground 46-66,GIS0106980,Developed Family Camp Area,9,663,,San Onofre SB,1ad5c594-8a7e-48f8-8558-c847008ad8de,,-117.5208587,33.34758416
+7137,Bluffs Campground 67-93,GIS0106981,Developed Family Camp Area,9,663,,San Onofre SB,35ce40b5-557e-4f9b-b9ff-bdbf92b616e8,,-117.517971,33.34606354
+7138,Bluffs Campground 105-119: RV,GIS0106982,Developed Family Camp Area,9,663,,San Onofre SB,8c4d6503-781c-442d-853f-596f10625327,,-117.5151101,33.34425668
+7139,Bluffs Campground 120-124: RV,GIS0106983,Developed Family Camp Area,9,663,,San Onofre SB,4adbe8e7-999f-4e82-a046-e8f8de9c0a2d,,-117.5131221,33.34280329
+7140,Bluffs Campground 125-146: RV,GIS0106984,Developed Family Camp Area,9,663,,San Onofre SB,18fe99d7-9bbb-40d0-81a9-1ee430e0887e,,-117.5091328,33.33989561
+7141,Bluffs Campground 146-163: RV,GIS0106985,Developed Family Camp Area,9,663,,San Onofre SB,2f9222ad-1bb9-468f-99aa-7b7e86e2cc60,,-117.5071069,33.33841657
+7142,Bluffs Campground 164-175: RV,GIS0106986,Developed Family Camp Area,9,663,,San Onofre SB,20b67939-9544-481e-922d-ebaea3fe3502,,-117.5058215,33.33745469
+7143,Corvina Beach Campground,GIS0108341,Primitive Family Camp Area,9,623,Campground- Corvina,Salton Sea SRA,564bbaf7-6d5f-4bdc-a5ff-9008ec8c265e,,-115.8925547,33.47935976
+7144,Salt Creek Beach Campground,GIS0108342,Primitive Family Camp Area,9,623,Salt Cr Beach Primitive Campground,Salton Sea SRA,ca2666bc-4952-4bd7-9e58-d1866cc639f0,,-115.8466112,33.44452521
+7145,New Mesa Campground,GIS0108343,Developed Family Camp Area,9,592,New Mesa Campground Rv camping,Silverwood Lake SRA,329d914a-9e9f-4a80-83ad-7f0adbaa99a0,,-117.3541037,34.2855952
+7146,North Shore - Large Group Camp,GIS0110836,Developed Group Camp Area,9,378,,Millerton Lake SRA,abeb20a0-3329-4ce3-9b23-a1f4d9590771,,-119.6848451,37.02444794
+7147,Sycamore Campground,GIS0110837,Undefined,9,244,,Hollister Hills SVRA,a1ba8ce9-022c-48d7-aabc-ec06b1a988a3,,-121.4012441,36.75408111
+7148,Obstacle Coursse Campground,GIS0110838,Undefined,9,244,,Hollister Hills SVRA,6ff5ac74-dd70-41f1-9582-ab24b2db1922,,-121.4059553,36.75818416
+7149,,GIS0110839,Developed Group Camp Area,9,244,Area 5 Group Campground,Hollister Hills SVRA,f622d991-a642-4fc9-a335-01ddf169663c,,-121.4061312,36.76344229
+7150,Hudner Ranch Campground,GIS0110840,Undefined,9,244,,Hollister Hills SVRA,fc9a7a7c-151a-4a57-bd87-1f02ee3b3d7d,,-121.3971923,36.76795744
+7151,,GIS0110841,Undefined,9,244,,Hollister Hills SVRA,862e3498-25ca-437c-9e88-a965d59e3337,,-121.4007901,36.77133996
+7152,,GIS0110842,Undefined,9,244,,Hollister Hills SVRA,c4d536f2-a6d4-4aa7-9553-7cca6ae08cd3,,-121.4182617,36.77051919
+7153,,GIS0110843,Undefined,9,244,,Hollister Hills SVRA,887298bc-5884-43af-80b6-ffabfdaafc9f,,-121.4224312,36.77134495
+7154,Lodge,GIS0110844,Undefined,9,244,,Hollister Hills SVRA,8e0dfa70-79b7-4d98-8534-7501e1dd1f56,,-121.4289853,36.77356571
+7155,Bee,GIS0110845,Undefined,9,244,,Hollister Hills SVRA,d87acddd-3ee4-432f-b735-129a15c557d7,,-121.4330439,36.7730928
+7156,Madrone Campground,GIS0110846,Undefined,9,244,,Hollister Hills SVRA,738891b7-595b-4bea-865b-6ef88b19973c,,-121.4380116,36.76997032
+7157,Edison Canyon Campground,GIS0110847,Primitive Family Camp Area,9,521,,Hungry Valley SVRA,ed3da669-a537-4c82-b7ab-d9e249430576,,-118.8787388,34.77240123
+7158,Sterling canyon campground,GIS0110848,Primitive Family Camp Area,9,521,Sterling Canyon Campground,Hungry Valley SVRA,88b4cac6-06fc-4673-a752-13ab790a1084,,-118.8784725,34.76595006
+7159,Honey Valley Group Camp,GIS0110849,Developed Group Camp Area,9,521,,Hungry Valley SVRA,5dbaa0e8-cf06-4856-91eb-9cea4ab1d932,,-118.8765444,34.76363439
+7160,Circle Canyon Campground,GIS0110850,Primitive Family Camp Area,9,521,,Hungry Valley SVRA,f4a368be-796f-4140-895e-03d4910c0ad8,,-118.8678796,34.7603963
+7161,Upper Scrub Oaks Campground,GIS0110851,Primitive Family Camp Area,9,521,Upper Scrub Oaks,Hungry Valley SVRA,a4ff2357-6480-402f-a443-fc9be5d87f2f,,-118.8774794,34.75082981
+7162,Lower Scrub Oaks Campground,GIS0110852,Primitive Family Camp Area,9,521,,Hungry Valley SVRA,b1925264-357c-4ada-bb72-f6e51b988a0b,,-118.8738032,34.74512201
+7163,Cottonwood Campground,GIS0110853,Primitive Family Camp Area,9,521,Cottonwood Campground,Hungry Valley SVRA,82e5ed7a-b32b-4d01-9bda-07d8cf98b632,,-118.8814504,34.75953294
+7164,Smith Forks Campground,GIS0110854,Primitive Family Camp Area,9,521,,Hungry Valley SVRA,46687529-be0a-4bd2-969d-0207e61628ca,,-118.8689997,34.73070974
+7165,Aliklik Campground,GIS0110855,Primitive Family Camp Area,9,521,,Hungry Valley SVRA,c1efbc08-b0f3-43e4-be41-615107ab4edd,,-118.8636394,34.7227213
+7166,ATV Campground,GIS0110856,Primitive Family Camp Area,9,521,,Hungry Valley SVRA,585e7a4e-06a0-43b1-a514-f3f7001d1bfc,,-118.8682558,34.72651136
+7167,Lane Ranch Campground,GIS0110857,Undefined,9,521,,Hungry Valley SVRA,421aabd6-b091-46fd-aca7-6c1568eb5a5d,,-118.8462999,34.72185724
+7168,Paddlewheeler Boat-in Camp,GIS0110858,Primitive Family Camp Area,9,658,,Picacho SRA,f198f577-92fe-4311-8ea5-04abba6f1945,,-114.655811,33.03466998
+7169,Dove Springs Camping - BLM,GIS0110859,Primitive Family Camp Area,9,331,Posts with Camp sites numbered.  Along route SC103,"Eastern Kern County, Onyx Ranch SVRA",679e799c-41c7-482d-97dc-ebee2749a9e6,,-118.0317053,35.43089782
+7170,Jawbone Camping - BLM,GIS0110860,Primitive Family Camp Area,9,331,Posts with campsites numbered,"Eastern Kern County, Onyx Ranch SVRA",ed87ea4f-ee04-4444-98a2-22de1be28d9c,,-118.0770733,35.32321022
+7171,Manchester Environmental Camp,GIS0110861,Environmental Camp Area,9,147,,Manchester SP,35dbd027-90ee-424c-856d-8e7747126b0b,,-123.6990854,38.99429789
+7172,Olympic RV Campground,GIS0110863,Developed Family Camp Area,9,314,"Olympic RV Campground RV Only, No Tent Campging",Brannan Island SRA,a0cf75dc-9b57-4ab2-a916-853db65c339b,,-121.6901937,38.11581283
+7173,Walk-in Campsites,GIS0110864,Developed Family Camp Area,9,314,Walk-in Campsites,Brannan Island SRA,d354c91f-2fbd-46ca-96a0-3b0ae1ca52d4,,-121.6906209,38.11404459
+7174,Willow Campground,GIS0110865,Developed Family Camp Area,9,314,Willow Campground,Brannan Island SRA,16299f2b-7304-427d-92dd-432cb50d0980,,-121.6931475,38.11251547
+7175,Cottonwood Campground,GIS0110866,Developed Family Camp Area,9,314,Cottonwood Campground,Brannan Island SRA,34d18afa-1edb-48ef-bdd6-cf7f3559db13,,-121.6953297,38.10934441
+7176,Joshua Tree Group Campground,GIS0110867,Developed Group Camp Area,9,543,North of Campground- Group camp,Saddleback Butte SP,b6719e86-3c4d-45ad-822e-753f5d03d014,,-117.8245539,34.67794403
+7177,Surf Camp,GIS0110868,Undefined,9,654,,San Elijo SB,5945b787-f2ee-4b3d-a8d1-cd10fe6ad78d,,-117.2840399,33.02114755
+7178,JaShe CG sites #13,GIS0121069,Environmental Camp Area,9,190,site#2,Ahjumawi Lava Springs SP,23a09508-66f7-4f6d-a3dd-592622eba1ad,,-121.4590824,41.11056027
+7179,Ja-She CG sites #1-3,GIS0138400,Environmental Camp Area,9,190,site#3,Ahjumawi Lava Springs SP,6cc63ba6-2389-4e4b-acd9-c617e950092e,,-121.4584461,41.11067553
+7180,Ja-She CG sites #1-3,GIS0138466,Environmental Camp Area,9,190,site#1,Ahjumawi Lava Springs SP,50056bf5-02a6-4dc7-8723-0d8765a6d0e1,,-121.4591016,41.11028143
+7181,Crystal Springs,GIS0134037,Environmental Camp Area,9,190,site#4,Ahjumawi Lava Springs SP,3e3d5aef-2d63-4473-8ef5-db557a3ade27,,-121.4496526,41.1125852
+7182,Crystal Springs #4-6,GIS0129363,Environmental Camp Area,9,190,site#5,Ahjumawi Lava Springs SP,bf7a441b-261d-44b1-a8a0-ffa08d9b2032,,-121.4483482,41.11167927
+7183,Crystal Springs #4-6,GIS0127500,Environmental Camp Area,9,190,site#6,Ahjumawi Lava Springs SP,71f4aed0-cbfd-41d9-ab73-583d1feeb49a,,-121.4478454,41.1120979
+7184,"Horr Pond sites #7-9
+",GIS0137687,Environmental Camp Area,9,190,site #9,Ahjumawi Lava Springs SP,2475c6a3-71d2-4b71-823c-11f88d183320,,-121.4286836,41.11195937
+7185,"Horr Pond sites #7-9
+",GIS0124928,Environmental Camp Area,9,190,"site #8
+",Ahjumawi Lava Springs SP,20b9641a-ec49-449f-ad66-c32dec5966c5,,-121.429898,41.112398
+7186,"Horr Pond sites #7-9
+",GIS0129245,Environmental Camp Area,9,190,"site #7
+
+",Ahjumawi Lava Springs SP,89c5d887-b47b-440b-9e2e-172eb8a07e13,,-121.4304297,41.11276833
+7187,Env Camp,GIS0006661,Environmental Camp Area,9,125,,McArthur-Burney Falls Memorial SP,84791555-4743-46b4-b35f-5b62c53ba223,,-121.6443982,41.00614886
+7188,Rim Campground,GIS0006662,Developed Family Camp Area,9,125,60 campsites + 2 concession cabins,McArthur-Burney Falls Memorial SP,142c4d8e-5636-4a09-8830-0583e804fac5,,-121.6505799,41.01709251
+7189,Pioneer Campground,GIS0006663,Developed Family Camp Area,9,125,45 campsites + 21 concession cabins,McArthur-Burney Falls Memorial SP,1b87c883-813e-4985-8808-5ef60d286d34,,-121.647936,41.01711237
+7190,Pioneer Cemetery Trail Hike and Bike Campground,GIS0006664,Hike/Bike Camp Area,9,125,,McArthur-Burney Falls Memorial SP,e19a9da3-9b44-4e60-8cfe-14f39a4fe0c7,,-121.6448512,41.01697767
+7191,Flume Envirnmental Camp,GIS0110835,Undefined,9,124,,Castle Crags SP,3f21290a-9305-4667-8908-6b315c1c8f07,,-122.3397549,41.15349043
+7192,Castle Crags Campground Lower Loop,GIS0006495,Undefined,9,124,Site 13 is Accessible,Castle Crags SP,4a3e438f-7308-46e6-83c2-24c790f13892,,-122.3124789,41.15130464
+7193,Riverside Campground,GIS0006496,Undefined,9,124,,Castle Crags SP,48215b29-645a-4ef2-b9ce-e1440b85fd6c,,-122.3081986,41.1495254
+7194,Upper Loop,GIS0006754,Undefined,9,124,,Castle Crags SP,fa8c3048-cf57-41be-9662-fb274d665c43,,-122.3082843,41.15396093
+7195,Little Loop / PCT Camp,GIS0006755,Undefined,9,124,Site 25 = PCT Camp.  Also 18 sites along rd,Castle Crags SP,eb3d6418-0d1f-4589-85f0-477ecfa44e80,,-122.3118094,41.15327045
+7196,Lippencott River  E-Camp,GIS0094796,Environmental Camp Area,9,124,,Castle Crags SP,98a04429-8da2-40d2-b4a1-663b89709d81,,-122.2927815,41.15080953
+7197,Beals Point Campground,GIS0006438,Developed Family Camp Area,9,318,Beals Point Campground,Folsom Lake SRA,2910af06-197b-45ef-8d8a-a1f08419bf63,,-121.1732447,38.71847813
+7198,Penninsula Campground,GIS0006439,Undefined,9,318,Penninsula Campground,Folsom Lake SRA,1c92d297-4c5d-43d2-b7ec-ff6d96e26981,,-121.1113825,38.75849041
+7199,Beals Point RV Campground,GIS0006619,Developed Family Camp Area,9,318,,Folsom Lake SRA,612881fc-14df-40e5-9f8e-81b931923da6,,-121.1727075,38.72157889
+7200,Lower Lake Clementine Boat-In Camp,GIS0006392,Primitive Family Camp Area,9,398,"pit-toilets, picnic tables, fire rings",Auburn SRA,43aefbe8-df43-4d10-9764-b0f1310b2e25,,-120.9887168,38.95137354
+7201,Ruck-A-Chucky,GIS0006393,Primitive Family Camp Area,9,398,,Auburn SRA,eb2bec63-71d1-4fa5-96bf-4edf1bfc2f3f,,-120.9326167,38.96359308
+7202,Mineral Bar,GIS0006394,Primitive Family Camp Area,9,398,,Auburn SRA,51ba0b58-2c37-46eb-95a0-6df5c28f4a72,,-120.9239394,39.10079656
+7203,River Permit Camping,GIS0006550,Environmental Camp Area,9,398,River Permit Camping,Auburn SRA,47d5bde4-4aff-48d7-9150-bb55dbd9fd59,,-121.0562145,38.90557545
+7204,Mineral Bar,GIS0140238,Primitive Family Camp Area,9,398,,Auburn SRA,29e7d5c3-bf99-42f4-b85d-2f246ea31b5b,,-120.9242594,39.10216819
+7205,Canyon Campground,GIS0006450,Developed Family Camp Area,9,540,Canyon Campground,Leo Carrillo SP,7b3fc4f2-4a8a-40f2-99af-30791773e0be,,-118.9338597,34.04954624
+7206,Leo Carrillo Group Camp,GIS0006451,Developed Group Camp Area,9,540,Leo Carrillo Group Camp/ recently flood damaged,Leo Carrillo SP,ef442e85-b46d-40d9-8071-147652371eed,,-118.935488,34.05566054
+7207,Leo Carrillo Hike and Bike Camp Area,GIS0006452,Hike/Bike Camp Area,9,540,Leo Carrillo Hike and Bike Camp Area,Leo Carrillo SP,b7739b31-137b-4c68-9c0f-bc739695b9e0,,-118.9342076,34.04732317
+7208,Group Camp,GIS0097924,Primitive Group Camp Area,9,658,near Picacho Cemetery,Picacho SRA,9566b90d-3bf0-485e-a597-ef3091df80a9,,-114.6163528,33.01988883
+7209,Henry Cowell Redwoods Bike Camp,GIS0006528,Hike/Bike Camp Area,9,418,Henry Cowell Redwoods Bike Camp,Henry Cowell Redwoods SP,c34eb162-e350-49e3-8325-60cc9b078f13,,-122.0431643,37.03040996
+7210,Castle Rock Trail Camp - Frog Flat,GIS0100056,Hike/Bike Camp Area,9,404,,Castle Rock SP,b2e32518-d355-4a31-ab2b-7d066ca11007,,-122.1216414,37.23629999
+7211,West Ridge Trail Camp,GIS0097916,Primitive Family Camp Area,9,465,"No water, fires prohibited",The Forest of Nisene Marks SP,15440020-57cd-4028-baf6-35da999d5480,,-121.8947957,37.05369709
+7212,New Brighton SB Family Campground,GIS0006798,Developed Family Camp Area,9,408,VARIOUS   -   CAMPSITE AREA,New Brighton SB,22f310c3-8e5b-4c3a-9253-ef20c0453bca,,-121.9358748,36.97977495
+7213,South Camp,GIS0006768,Developed Family Camp Area,9,410,Various-Campsite Area,Sunset SB,61bf367d-33fb-4038-bc9c-afde85c4f29a,,-121.8270097,36.88424729
+7214,Sunset SB Group Camp,GIS0006685,Developed Group Camp Area,9,410,,Sunset SB,491b8d0f-7e61-4288-85f3-69fe0070a7ea,,-121.8281536,36.88657026
+7215,Sunset SB Hike/Bike Camp,GIS0006684,Hike/Bike Camp Area,9,410,Pine Hollow/ Sunset SB Hike and Bike campsites,Sunset SB,593130f8-fbcb-4d5e-89dd-15432e86ad67,,-121.8289983,36.88808588
+7216,New Brighton SB Group Camps,GIS0006683,Developed Group Camp Area,9,408,3 group campsites,New Brighton SB,4c9445d8-993b-4927-b37f-f66216ecbc9c,,-121.9307505,36.98040846
+7217,New Brighton SB Bike Campsite,GIS0006682,Hike/Bike Camp Area,9,408,VARIOUS   -   CAMPSITE AREA,New Brighton SB,bbd43316-5f8d-409f-8195-2f48287d8051,,-121.9337303,36.97967294
+7218,Wilder Ranch Horse Camp,GIS0006681,Horse Camp Area,9,456,,Wilder Ranch SP,49d3100e-5b10-4d86-96b6-f5a806a6d616,,-122.1022251,36.96470911
+7219,Waterman Gap Trail Camp,GIS0006656,Walk-in Camp Area,9,404,"primitive sites, vault toilet, no fires",Castle Rock SP,f9fac872-47d3-41a9-a072-a50fb814d35d,,-122.1517289,37.21251532
+7220,Castle Rock Main Trail Camp,GIS0006655,Primitive Family Camp Area,9,404,"primitive camp. table, fire ring at each camp",Castle Rock SP,db4687b6-3c2b-4505-b915-1c18f473b3cf,,-122.1192341,37.23718607
+7221,Ricardo Campground,GIS0006551,Developed Family Camp Area,9,577,Red Rock Canyon CG,Red Rock Canyon SP,16ff9538-f5c3-42f6-a81c-94ec9537d83f,,-117.9945659,35.37153239
+7222,Henry Cowell Redwoods Campground,GIS0006527,Developed Family Camp Area,9,418,Henry Cowell Redwoods Campground,Henry Cowell Redwoods SP,5ef3935a-05a9-45ea-8069-f8936997e49e,,-122.0440715,37.03099085
+7223,Seacliff Beachfront Campground,GIS0006477,Developed Family Camp Area,9,409,Seacliff Beachfront Campground,Seacliff SB,a4a92fdc-c649-4496-ae81-79570739bc2d,,-121.918422,36.97417459
+7224,Pine Hollow Campground,GIS0006459,Developed Family Camp Area,9,410,Pine Hollow Campground Sites 38-64,Sunset SB,d1e2eead-8bc3-4c38-a90a-0d21695a802c,,-121.8295339,36.8882739
+7225,New Brighton Campground,GIS0006432,Developed Family Camp Area,9,408,New Brighton Campground,New Brighton SB,3db01dc5-57cd-4082-bfba-0199862ed872,,-121.9321156,36.98056137
+7226,Doe Flat Group Camp,GIS0006590,Developed Group Camp Area,9,412,Tent only Group Camp,Fremont Peak SP,f0eccd2a-c9a4-4d8e-b4de-37229b76b069,,-121.4949433,36.7621871
+7227,Coulter Group Camp,GIS0094792,Developed Group Camp Area,9,412,,Fremont Peak SP,3fc9685e-7c6a-4a7d-80e6-798a6acb2fac,,-121.5016611,36.760902
+7228,Castle Rock Main Trail Camp,GIS0151746,Primitive Family Camp Area,9,404,"primitive camp. table, fire ring at each camp",Castle Rock SP,efea75e2-7c8c-4a26-bbff-9b4962093dad,,-122.1199414,37.23616837
+7229,Mecca Campground,GIS0145635,Developed Family Camp Area,9,623,Campground- Mecca- Full Hookups- 10ea,Salton Sea SRA,917a0050-3d24-4af1-91be-8e173debe5cb,,-115.9015907,33.48977811
+7230,Kayak Group Camp,GIS0151617,Developed Group Camp Area,9,623,Kayak Group Camp- Corvina Beach Campground,Salton Sea SRA,4f2a57e9-e22f-4f31-b6b7-2c31722dd84c,,-115.8932613,33.48026164
+7231,Dunes Campground,GIS0151745,Developed Family Camp Area,9,410,Dunes Campsite’s #65-90,Sunset SB,a987f6e0-846a-4eb2-b9c3-d006a5509c8a,,-121.8311432,36.89049053
+7232,Kayak Group Camp,GIS0144150,Primitive Group Camp Area,9,623,Kayak Group Camp- Salt Creek Campground,Salton Sea SRA,993e988e-9b49-4e4c-9372-5b6070a00042,,-115.8429836,33.43954908
+7233,Salton Sea Discovery group campsite,GIS0144900,Developed Group Camp Area,9,623,Discovery Group camp- New Camp,Salton Sea SRA,f61b6720-282d-444b-9ac6-7f728da53410,,-115.9125019,33.50112144
+7234,Rancho del Oso Horse Camp,GIS0006573,Horse Camp Area,9,406,Rancho del Oso Horse Camp,Big Basin Redwoods SP,6ba967ad-4a93-40c6-9371-f79ba8114427,,-122.2772074,37.10123792
+7235,Ben Ries Campground,GIS0006571,Developed Family Camp Area,9,423,Ben Ries Campground,Butano SP,42fc39b0-fc36-4d94-87c0-006bb0fc206d,,-122.3288044,37.21033581
+7236,Manresa Uplands Campground,GIS0006545,Developed Family Camp Area,9,416,Walk-in only campsites,Manresa SB,44606a0e-6463-4a94-bcf2-697cafd7dc89,,-121.8498582,36.91755456
+7237,Sunset Trail Camp,GIS0006576,Primitive Family Camp Area,9,406,Sunset Trail Camp (primitive),Big Basin Redwoods SP,21d572d2-f45e-4688-acfa-65a244abe9ba,,-122.2705371,37.18071995
+7238,Sempervirens Campground,GIS0006577,Developed Family Camp Area,9,406,Sempervirens Campground,Big Basin Redwoods SP,96567ca3-ec3a-48dd-b3d1-2b61251999df,,-122.2126395,37.16869803
+7239,Huckleberry Campground,GIS0006582,Developed Family Camp Area,9,406,Huckleberry Campground,Big Basin Redwoods SP,cec28cf9-b07e-48f5-b20f-80d207abadff,,-122.2072928,37.17589168
+7240,Sky Meadow Group Campground,GIS0006583,Developed Group Camp Area,9,406,Sky Meadow Group Campground,Big Basin Redwoods SP,d47e4f7e-6f27-45b3-8eef-a0782a01842d,,-122.2048006,37.17994946
+7241,Sequoia Group Campground,GIS0006580,Developed Group Camp Area,9,406,Sequoia Group Campground,Big Basin Redwoods SP,4df18e8e-6539-4250-90c2-cf70bc778ed5,,-122.2184706,37.17473086
+7242,Wastahi Campground,GIS0006581,Developed Family Camp Area,9,406,Wastahi Campground,Big Basin Redwoods SP,4ea3562c-bfd2-493d-a073-3492dec67d94,,-122.2113111,37.17672778
+7243,Little Basin Campground 38-44,GIS0006822,Developed Family Camp Area,9,406,,Big Basin Redwoods SP,8dda008c-0e43-402f-83b0-5f17c3b231de,,-122.2049683,37.15842349
+7244,Little Basin Campground 47-50,GIS0006821,Developed Family Camp Area,9,406,,Big Basin Redwoods SP,803c9f2c-b842-481b-a359-6079e36ef618,,-122.2062012,37.15897549
+7245,Little Basin Campground 23-27,GIS0006819,Developed Family Camp Area,9,406,,Big Basin Redwoods SP,ac0a9cf3-7127-43fa-99b4-1195edafdaa0,,-122.2077265,37.1595951
+7246,Lane Trail Camp,GIS0006660,Primitive Family Camp Area,9,406,Lane Trail Camp (primitive),Big Basin Redwoods SP,72896696-2a87-476c-9744-f572e2408fea,,-122.2243674,37.21512421
+7247,Huckleberry Hike / Bike Campground,GIS0006823,Hike/Bike Camp Area,9,405,Hike / Bike Campground,Portola Redwoods SP,ea3b1b98-f9be-4dab-a0e3-e895a854b148,,-122.217834,37.25371493
+7248,Family Walk-in Sites,GIS0006824,Hike/Bike Camp Area,9,405,Family Walk-in Sites,Portola Redwoods SP,bc903f11-4368-45a0-802a-f7bcd2dc0146,,-122.2197333,37.2540879
+7249,Francis Beach Campground,GIS0006525,Developed Family Camp Area,9,277,,Half Moon Bay SB,f505c355-6577-4812-9065-ee5a0bc6040b,,-122.445841,37.4688245
+7250,Hillside Group Campground,GIS0006719,Primitive Group Camp Area,9,405,,Portola Redwoods SP,0656087b-065d-4c45-9fec-a1de04cc6e65,,-122.2186235,37.25494777
+7251,Ravine Group Campground,GIS0006720,Primitive Group Camp Area,9,405,,Portola Redwoods SP,49c5f86a-e890-40dd-85e5-e209c574709a,,-122.2192234,37.25466115
+7252,Point Group Campground,GIS0006721,Primitive Group Camp Area,9,405,,Portola Redwoods SP,b93a087b-e650-45a5-8403-09245585cf22,,-122.2176244,37.25147334
+7253,Circle Group Campground,GIS0006722,Primitive Group Camp Area,9,405,,Portola Redwoods SP,0826ea53-c79b-472c-b08e-2f9b49485c00,,-122.2166662,37.25123568
+7254,Slate Creek Trail Camp,GIS0006718,Primitive Family Camp Area,9,405,"Trail Camp.  Fires prohibited, backpack stoves OK",Portola Redwoods SP,5383a547-ff6a-4c2e-b066-aa5b8365d9e3,,-122.1924787,37.25800382
+7255,Sweetwood Group Camp,GIS0006620,Developed Group Camp Area,9,277,Minimum 9 persons Max 12 veh,Half Moon Bay SB,ef14c976-0fa7-4ddf-b064-6c2acc5a5c90,,-122.4507028,37.48201094
+7256,Ben Ries Walk-in Campground,GIS0157836,Walk-in Camp Area,9,423,,Butano SP,6b4c1b0f-1a3c-4740-8853-cdbd39379d62,,-122.3284348,37.21111051
+7257,Refugio Campground,GIS0006425,Hike/Bike Camp Area,9,527,Refugio Campground,Refugio SB,546e44db-9d44-43d0-9c94-87d158299dac,,-120.0682351,34.46316677
+7258,Refugio Campground,GIS0006424,Developed Family Camp Area,9,527,Refugio Campground,Refugio SB,d5b2d8a9-7b88-4241-9b9d-4a8387e018bd,,-120.0694357,34.46452437
+7259,El Capitan Hike and Bike Camp Area,GIS0006515,Hike/Bike Camp Area,9,527,El Capitan Hike and Bike Camp Area,Refugio SB,d7a10a82-1b75-461d-bc1d-01bad91c0b2d,,-120.0341544,34.46347977
+7260,El Capitan SB Campground Loop 1,GIS0006513,Developed Family Camp Area,9,519,Sites 1-28,El Capitán SB,f8a1fda2-3aa2-4fe1-9d79-1d2aa995beeb,,-120.023268,34.46156424
+7261,"Drake, Cabrillo, Ortega",GIS0006738,Developed Group Camp Area,9,527,3 group campground loci,Refugio SB,09a490f9-6c57-4338-b1dd-44c863dcfe4e,,-120.0331486,34.46306681
+7262,El Capitan SB Campground RV Sites,GIS0006772,Developed Family Camp Area,9,519,RV sites 124-132,El Capitán SB,67aae72c-b9ce-4c89-9e07-a32278ffc170,,-120.0315763,34.46276327
+7263,Bouchard,GIS0006799,Developed Group Camp Area,9,527,EAST   -   GROUP CAMP,Refugio SB,bffde417-b073-4e4d-8027-b3f51492db16,,-120.0672755,34.4633225
+7264,Gaviota Campground,GIS0006440,Developed Family Camp Area,9,542,Gaviota Campground,Gaviota SP,7f2c2b9b-2ab3-4e03-82fe-7aa6a5a12023,,-120.2284903,34.47242572
+7265,Portola Group Camp Area,GIS0006737,Developed Group Camp Area,9,519,,El Capitán SB,97f8593f-4cab-425a-99a7-8c5260464e16,,-120.0294892,34.46199279
+7266,El Capitan SB Campground Loop 2,GIS0006773,Developed Family Camp Area,9,519,Sites 29-60,El Capitán SB,c1e5b644-888a-4154-b6e7-7279f4c01e62,,-120.0263017,34.4607686
+7267,El Capitan SB Campground Loop 3,GIS0006774,Developed Family Camp Area,9,519,Sites 61-91,El Capitán SB,bf029f72-ad25-4d6d-b714-0be65fb84c39,,-120.0277385,34.4620388
+7268,El Capitan SB Campground Loop 4,GIS0006775,Developed Family Camp Area,9,519,Sites 92-123,El Capitán SB,38a5fd83-9a5f-4f27-9167-b5573c0a1cf9,,-120.0297563,34.46232581
+7269,de Anza Group Camp Area,GIS0006514,Developed Group Camp Area,9,519,"3 loci, 2 in family site loops",El Capitán SB,b183ea4d-3f6a-47a8-96c2-97ac1adffe2b,,-120.0280928,34.46127523
+7270,Ventura River Enroute Camp,GIS0006516,Enroute Camp Area,9,530,Ventura River Enroute Camp,Emma Wood SB,12347b6a-3d47-46df-b7bd-2a52ba8ecda5,,-119.3144357,34.2805329
+7271,Anacapa Loop Hike/Bike Camp,GIS0006494,Hike/Bike Camp Area,9,514,Anacapa Loop Hike Bike Campsite (1),Carpinteria SB,48f83302-f3ab-4ad4-bedb-fb604b16cc2b,,-119.5215471,34.39284747
+7272,Santa Cruz Loop Group Camp,GIS0006492,Developed Group Camp Area,9,514,Santa Cruz Loop Group Camp,Carpinteria SB,6a888f3f-ed68-4692-b6fe-865e3c0c1810,,-119.5195857,34.39136455
+7273,Emma Wood Hike/Bike Camp,GIS0006518,Hike/Bike Camp Area,9,530,Emma Wood Hike/Bike Camp,Emma Wood SB,bc7ca972-cb45-4f55-98ef-c1da22158e37,,-119.3141204,34.27978009
+7274,Ventura River Group Camp B,GIS0110871,Developed Group Camp Area,9,530,Ventura River Enroute Camps B,Emma Wood SB,d5d65018-26fe-4c94-aaf8-c43e6c0e7b58,,-119.3137362,34.28059194
+7275,Ventura River Group Camp C,GIS0110870,Developed Group Camp Area,9,530,Ventura River Enroute Camps C,Emma Wood SB,7a7191b8-eb6a-4ea2-854d-286b1362a9f7,,-119.3141314,34.28082843
+7276,Ventura River Group Camp D,GIS0110869,Developed Group Camp Area,9,530,Ventura River Enroute Camps D,Emma Wood SB,530606e0-e45f-4bfe-b7d6-50877a81f6c1,,-119.3146654,34.28096888
+7277,Santa Rosa Loop Campground,GIS0006691,Developed Family Camp Area,9,514,RV Hookups; Sites 301 - 380,Carpinteria SB,d16e0bde-4549-4309-91c2-5621b35874d5,,-119.5181852,34.39008783
+7278,Ventura River Group Camp A,GIS0110872,Developed Group Camp Area,9,530,Ventura River Enroute Camps A,Emma Wood SB,cdf5df3b-d0a3-4cf5-ac75-4d511e76321f,,-119.3139232,34.28034279
+7279,Emma Wood Enrount Camping,GIS0006517,Primitive Family Camp Area,9,530,Emma Wood Enrount Camping,Emma Wood SB,c89252c0-3536-4b7a-83be-ad48ea56b2f3,,-119.3155197,34.28070247
+7280,Anacapa Loop Campground,GIS0006491,Developed Family Camp Area,9,514,,Carpinteria SB,c6359c78-dde4-4285-9c1f-eedc1561300e,,-119.5219643,34.3938535
+7281,"North Beach Campground, 90 sites",GIS0006437,Primitive Family Camp Area,9,530,"North Beach Campground, 90 sites",Emma Wood SB,1716cea9-0f5d-4e6c-8d34-d3dc85f3d278,,-119.3374527,34.29101195
+7282,McGrath SB CG,GIS0006560,Developed Family Camp Area,9,567,McGrath SB CG,McGrath SB,1c0cb7aa-9b21-40e5-b7e0-ffd67d7427f7,,-119.2565765,34.22699646
+7283,McGrath Hike and Bike CG,GIS0006561,Hike/Bike Camp Area,9,567,McGrath Hike and Bike CG,McGrath SB,0578e3a8-7f83-4f3e-a5fa-2f288dc8df91,,-119.2570911,34.22645928
+7284,San Miguel Loop Campground,GIS0006692,Developed Family Camp Area,9,514,RV Hookups; Sites 401 - 456,Carpinteria SB,df6b6374-77df-4fdd-9c65-0c9bf788663b,,-119.5155943,34.38828826
+7285,Santa Cruz Loop Campground,GIS0006690,Developed Family Camp Area,9,514,"Sites 201 - 244; plus Sites: Gull, Plover, Egret",Carpinteria SB,55c0518a-1bb5-43e1-b21f-e540ac62cdf8,,-119.5204231,34.39176738
+7286,Carpinteria SB Enroute Camp Area,GIS0006693,Enroute Camp Area,9,514,Enroute camp area; see Park rules,Carpinteria SB,4e03eb21-652a-413c-8fe7-5653322e6ee1,,-119.5218403,34.39290291
+7287,Emerald Bay Boat Camp,GIS0006409,Developed Family Camp Area,9,313,Emerald Bay Boat Camp,Emerald Bay SP,3e0e5221-cb1f-4519-9d71-64ca392b8a2b,,-120.0965553,38.95988881
+7288,Sugarloaf Ridge Campground,GIS0006462,Developed Family Camp Area,9,247,Sugarloaf Ridge Campground,Sugarloaf Ridge SP,3d6b9873-426c-4717-ab3c-6bd0df126554,,-122.5141953,38.43661065
+7289,Sugarloaf Ridge Group Camp,GIS0006680,Developed Group Camp Area,9,247,Group Standard,Sugarloaf Ridge SP,10cf03e8-e52c-4042-b94a-ec7615c15fd0,,-122.5087662,38.43797124
+7290,Morro Bay SP Group Camp (N),GIS0006804,Undefined,9,443,N of 2 group camps,Morro Bay SP,7a9a1f93-2ac2-4639-b032-3018ab70a588,,-120.8355417,35.34970349
+7291,Horse Camp- Oak,GIS0006811,Horse Camp Area,9,441,3 separate areas,Montaña de Oro SP,8c5aa889-45ae-4dd6-b3c0-a249a2f73204,,-120.8612146,35.29605616
+7292,Montana de Oro Environmental Camp Area 4,GIS0006827,Environmental Camp Area,9,441,Environmental Camp Area 4 - Rattlesnake Flats,Montaña de Oro SP,45dbb128-656a-4a3c-a414-b6016dc58fe8,,-120.8866648,35.26196684
+7293,Montana de Oro Environmental Camp Area 3,GIS0006825,Environmental Camp Area,9,441,Environmental Camp Area 3 - Badger Camp,Montaña de Oro SP,f27bbd4c-5808-478d-95b2-57366932961f,,-120.8881471,35.26725052
+7294,Montana de Oro Environmental Camp Area 2,GIS0006826,Environmental Camp Area,9,441,Environmental Camp Area 2 - Hazard's Grove,Montaña de Oro SP,bec7b181-062b-454d-8e87-3ffcf640ae5d,,-120.8778946,35.28740012
+7295,Montana de Oro Environmental Camp Area 1,GIS0006481,Environmental Camp Area,9,441,Environmental Camp Area 1 - Bloody Nose,Montaña de Oro SP,f1399a37-59d5-4551-b172-e0758e892fa0,,-120.8771339,35.28798425
+7296,Islay Creek Campground,GIS0006479,Primitive Family Camp Area,9,441,Montana de Oro Campground,Montaña de Oro SP,8cc52919-2b1a-46cd-bef4-d922e42ffb6e,,-120.8820796,35.27471021
+7297,Morro Bay SP Hike/Bike Camp,GIS0006483,Hike/Bike Camp Area,9,443,Morro Bay Campground Hike and Bike Camp Area,Morro Bay SP,a004e78f-d1a5-4f41-97b8-13dca797919a,,-120.8397517,35.3479013
+7298,Montana de Oro Horse Camp,GIS0006482,Horse Camp Area,9,441,Madrone Horse Camp,Montaña de Oro SP,1835e6d7-5476-47d8-a4cd-dea42d7b8bd3,,-120.8628942,35.29706275
+7299,,GIS0162481,,9,0,,,b615575f-70f4-4491-b82f-11ee9dd88d47,,-117.8427047,33.57417134
+7300,Black Miners Bar Group Camp B,GIS0006829,Developed Group Camp Area,9,318,Black Miners Bar Group - Grnds campsites.,Folsom Lake SRA,0cc89210-20ad-4252-834d-1c60b05f88e5,,-121.1826131,38.68188381
+7301,Black Miners Bar Group Camp C,GIS0006828,Developed Group Camp Area,9,318,Black Miners Bar Group - Grnds campsites.,Folsom Lake SRA,400c65f2-6aa3-4c6e-8f82-ebc83ae634b5,,-121.1819,38.68184791
+7302,Morro Strand Campground,GIS0006478,Developed Family Camp Area,9,442,Morro Strand Campground,Morro Strand SB,b8d36017-77d6-4b00-876b-ca40d5020ff8,,-120.8668259,35.40003347
+7303,Black Miners Bar Group Camp A,GIS0006830,Developed Group Camp Area,9,318,Black Miners Bar Group - Grnds campsites.,Folsom Lake SRA,f99a0f2a-e4a2-420c-9fb8-140c80e8a11e,,-121.1830617,38.68183659
+7304,Hearst San Simeon Hike/Bike Camp,GIS0006687,Hike/Bike Camp Area,9,487,Former San Simeon SP Hike/Bike CG,Hearst San Simeon SP,bc75c112-614e-4da2-be47-4696f8f0e4ac,,-121.1257323,35.59684328
+7305,Steep Ravine Cabins,GIS0006434,Developed Family Camp Area,9,239,Steep Ravine Cabins,Mount Tamalpais SP,1625d7ce-aa45-4369-bc66-b1b1cc0514e4,,-122.6278868,37.88347561
+7306,Frank Valley Horse Camp,GIS0006433,Horse Camp Area,9,239,,Mount Tamalpais SP,4b20bc01-4933-42bc-b5e7-9fa6482032c9,,-122.5840734,37.87661981
+7307,Pantoll CG,GIS0006564,Developed Family Camp Area,9,239,Pantoll CG,Mount Tamalpais SP,6580a4aa-f0b0-4b37-89eb-77b125bac3a7,,-122.603665,37.90377447
+7308,Rocky Point-Steep Ravine Environmental Camp,GIS0006584,Environmental Camp Area,9,239,Rocky Point-Steep Ravine Environmental Camp,Mount Tamalpais SP,33c85854-6358-4982-8bec-16d61b433d92,,-122.6269693,37.88227743
+7309,Washburn Campground,GIS0006412,Primitive Family Camp Area,9,487,Washburn Campground,Hearst San Simeon SP,923e1f94-9c0e-4c00-851a-0d74ee39b4f1,,-121.1111456,35.59479284
+7310,San Simeon Creek Campground,GIS0006411,Developed Family Camp Area,9,487,San Simeon Creek Campground,Hearst San Simeon SP,ac30ac54-d5be-48f7-86f1-aa5af82afe32,,-121.1233309,35.59673629
+7311,Back Ranch Meadows Walk-in Campground,GIS0006585,Developed Family Camp Area,9,202,Back Ranch Meadows Walk-in Campground,China Camp SP,9d8f0bf6-e104-4314-a1c6-8782dce771ed,,-122.4948589,38.00565536
+7312,Candlestick Point Campground,GIS0110862,Hike/Bike Camp Area,9,214,,Candlestick Point SRA,a1c9cf8d-259b-4244-a4e1-88f2170df09e,,-122.3759623,37.70927096
+7313,Bootjack Campground,GIS0164631,Developed Family Camp Area,9,239,Bootjack Campground,Mount Tamalpais SP,014f0826-6bd8-4531-86fc-91fb029fb340,,-122.6022827,37.90952383
+7314,Back Ranch Meadows Group Camp,GIS0165064,Developed Group Camp Area,9,202,,China Camp SP,ab215d4d-ea3b-414a-afba-4e8ce14bc3d1,,-122.4974175,38.00599372
+7315,Alice Eastwood Group Camp,GIS0164699,Developed Group Camp Area,9,239,Alice Eastwood Group Camp,Mount Tamalpais SP,5f2468e7-1285-40fa-ab47-8a11d447fdee,,-122.580863,37.90405849
+7316,Horse Camp- Chamise and Manzanita,GIS0166730,Horse Camp Area,9,441,3 separate areas,Montaña de Oro SP,bb39d2d3-4d2e-480b-b4a7-30f8fb8f2659,,-120.8600005,35.29513381
+7317,Back Ranch Meadows Hike/Bike,GIS0166759,Hike/Bike Camp Area,9,202,Back Ranch Meadows Hike/Bike,China Camp SP,de76126b-244d-48c5-a646-47867449660b,,-122.4952868,38.00365337
+7318,Horse Camp- Sage and Lupine,GIS0166887,Horse Camp Area,9,441,3 separate areas,Montaña de Oro SP,084babe9-d61f-454b-a0f5-5fd0137a92c2,,-120.8596859,35.29489165
+7319,Ventura River RV Group Camp,GIS0166911,Enroute Camp Area,9,530,Ventura River RV Group Camp,Emma Wood SB,f8534157-cd83-4f38-9e8f-edb9d73e326a,,-119.3152167,34.28123728
+7320,Emma Wood Hike/Bike Camp,GIS0166864,Hike/Bike Camp Area,9,530,Emma Wood Hike/Bike Camp,Emma Wood SB,5d7d9530-1b15-4144-8566-ea05f5b4ab82,,-119.3159747,34.2812483
+7321,Little Basin Campground 1-8,GIS0006818,Developed Family Camp Area,9,406,,Big Basin Redwoods SP,4a46582f-326a-4920-b3ef-79855357b038,,-122.2054063,37.1576849
+7322,Camp Taylor,GIS0006744,Developed Family Camp Area,9,233,,Samuel P. Taylor SP,3082d36a-8786-44e5-993d-0e5bbbaef875,,-122.7359117,38.02196424
+7323,Madrone Group Camp #1,GIS0006745,Developed Group Camp Area,9,233,,Samuel P. Taylor SP,99c6382a-ed49-46a4-a0a2-9934f4783635,,-122.7324505,38.02006855
+7324,Devil's Gulch Group Camp,GIS0006791,Developed Group Camp Area,9,233,Devil’s Gulch Group Camp,Samuel P. Taylor SP,320145eb-e46d-4df9-8acd-781a957af341,,-122.7322163,38.03252491
+7325,Ritchey Creek Campground,GIS0006395,Developed Family Camp Area,1,240,Ritchey Creek Campground,Bothe-Napa Valley SP,e4576fb9-b3ea-4fb9-8718-51e8c22b06a8,,-122.525695,38.54952978
+7326,Bothe-Napa Valley Group Camp,GIS0006396,Developed Group Camp Area,9,240,Bothe-Napa Valley Group Camp,Bothe-Napa Valley SP,465a2d39-f014-4253-ad3e-0c74afef108e,,-122.5169048,38.549791
+7327,Creekside Campground,GIS0006417,Developed Family Camp Area,9,233,,Samuel P. Taylor SP,d360cae9-429b-4335-9411-7fc1fbf218df,,-122.7348395,38.02071604
+7328,Devil's Gulch #1,GIS0006418,Horse Camp Area,9,233,Group Horse Camp Site 1,Samuel P. Taylor SP,c51ee194-dba1-4ff7-9e8f-7326dfbe4da2,,-122.7331142,38.03162706
+7329,Butano Trail Camp,GIS0006572,Trail Camp,9,423,Butano Trail Camp,Butano SP,d9aef721-121f-4f57-9fa0-ad036cc9bd8b,,-122.2905377,37.22353224
+7330,La Jolla Canyon Group Camp,GIS009975,Developed Group Camp Area,9,573,,Point Mugu SP,069a57e2-fbf3-479b-b553-22bdf399eaee,,-119.0350394,34.08571443
+7331,Creekside Campground Hike and Bike,GIS0174105,Hike/Bike Camp Area,9,233,,Samuel P. Taylor SP,34bb1d89-aacc-4571-bb2b-962cadd141af,,-122.7336038,38.01877413
+7332,Railroad Camp,GIS0006471,Environmental Camp Area,9,133,,Sinkyone Wilderness SP,89ce09e7-e9e0-445e-9599-a58c4db0a429,,-123.9406572,39.91815912
