@@ -5,7 +5,7 @@ import plotly.express as px
 import json
 import plotly.graph_objects as go
 
-
+'''
 # Load your GeoJSON data
 with open('National_Forest_Boundaries.geojson') as f:
     geojson_data = json.load(f)
@@ -64,8 +64,6 @@ fig.add_trace(
         geojson=geojson_data,
         locations=[feature["properties"]["OBJECTID"] for feature in geojson_data['features']],
         featureidkey="properties.OBJECTID",
-        text=[feature["properties"]["FORESTNAME"] for feature in geojson_data['features']],
-        hoverinfo = 'text'
         #color="GIS_ACRES",
         #mapbox_style="carto-positron",
         #zoom=7,
@@ -75,57 +73,6 @@ fig.add_trace(
 )
 
 
-
-
-# Load the GeoJSON file
-with open('Deer_Hunt_Zones_-_Title_14%2C_Section_360_[ds342].geojson') as f:
-    geojson_data_hunt_zones = json.load(f)
-
-
-hunt_zones_df = pd.read_csv('Deer_Hunt_Zones_-_Title_14%2C_Section_360_[ds342].csv')
-
-fig.add_trace(go.Choroplethmapbox(
-   
-    geojson=geojson_data_hunt_zones,
-    locations=  [feature["properties"]["OBJECTID"] for feature in geojson_data_hunt_zones['features']],  #  Column in DataFrame with region identifiers
-    text =  [feature["properties"]["Zone_Nam"] for feature in geojson_data_hunt_zones['features']],
-    z=  [100]*hunt_zones_df.shape[0] ,       #  Values to color the regions
-    featureidkey='properties.OBJECTID', #  Path to the matching identifier in GeoJSON
-    hoverinfo= 'text',
-    colorscale='Plasma',
-    #colorbar_title='Metric Value',
-    marker_line_color='black',
-    marker_opacity=0.4
-))
-
-
-
-with open('CDFW_Public_Access_Lands_[ds3077].geojson') as f:
-    geojson_data_cdfw_zones = json.load(f)
-
-
-cdfw_count = len([feature["properties"]["OBJECTID"] for feature in geojson_data_cdfw_zones['features']])
-
-fig.add_trace(go.Choroplethmapbox(
-  
-    geojson=geojson_data_cdfw_zones,
-    locations=  [feature["properties"]["OBJECTID"] for feature in geojson_data_cdfw_zones['features']],  #  Column in DataFrame with region identifiers
-    text =  [feature["properties"]["PROP_NAME"] for feature in geojson_data_cdfw_zones['features']],
-    z=  [600]*cdfw_count ,       #  Values to color the regions
-    featureidkey='properties.OBJECTID', #  Path to the matching identifier in GeoJSON
-    hoverinfo= 'text',
-    #colorscale="rgb(204,204,0)",
-    #colorbar_title='Metric Value',
-    marker_line_color='black',
-    marker_opacity=0.8
-))
-
-
-
-
-
-
-
 fig.add_trace(
     go.Scattermapbox(
         lat=lakes_df['lat'],
@@ -133,8 +80,7 @@ fig.add_trace(
         mode='markers',
         marker={"size": 3, "color": "blue"},
         text=lakes_df['name'],
-        name='Lakes',
-        hoverinfo='text'
+        name='Lakes'
     )
 
 
@@ -145,10 +91,9 @@ fig.add_trace(
         lat=campground_df['y'],
         lon=campground_df['x'],
         mode='markers',
-        marker={"size": 5, "color": "red"},
+        marker={"size": 3, "color": "red"},
         text=campground_df['UNITNAME'],
-        name='Campgrounds',
-        hoverinfo='text'
+        name='Campgrounds'
     )
 )
 
@@ -157,15 +102,15 @@ fig.update_layout(
     mapbox_style = "open-street-map",
         mapbox_zoom=7,
         
-        mapbox_center={"lat": 38.5887, "lon": -121.00} # Center the map
+        mapbox_center={"lat": 42.5887, "lon": -128.00} # Center the map
     )
 
 fig.show()
 
-
-
-
 '''
+
+
+
 fig = go.Figure()
 #
 
@@ -181,7 +126,7 @@ hunt_zones_df = pd.read_csv('Deer_Hunt_Zones_-_Title_14%2C_Section_360_[ds342].c
 #hunt_zones_df['OBJECTID'], #
 
 
-fig.add_trace(go.Choropleth(
+fig = go.Figure(data=go.Choropleth(
     #df = hunt_zones_df,
     geojson=geojson_data_hunt_zones,
     locations=  [feature["properties"]["OBJECTID"] for feature in geojson_data_hunt_zones['features']],  #  Column in DataFrame with region identifiers
@@ -189,18 +134,16 @@ fig.add_trace(go.Choropleth(
     featureidkey='properties.OBJECTID', #  Path to the matching identifier in GeoJSON
     colorscale='Plasma',
     colorbar_title='Metric Value',
-    #marker_line_color='white',
+    marker_line_color='white',
     marker_opacity=0.5
 ))
 
 fig.update_layout(
-    mapbox_style="carto-positron",
-    #mapbox_style = "open-street-map",
+    #mapbox_style="carto-positron",
+    mapbox_style = "open-street-map",
         mapbox_zoom=7,
         
         mapbox_center={"lat": 42.5887, "lon": -128.00} # Center the map
     )
 
 fig.show()
-
-'''
